@@ -1,0 +1,1719 @@
+fileFormatVersion: 2
+guid: 0a5e771d5b62b9949b2e9d4c34e3b40d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3094746581946184963
+    second: PC Computer - Claw - Level 1 Tiles_0
+  - first:
+      213: 1749061744271875864
+    second: PC Computer - Claw - Level 1 Tiles_1
+  - first:
+      213: 8415703228256717671
+    second: PC Computer - Claw - Level 1 Tiles_2
+  - first:
+      213: -1765274840123449050
+    second: PC Computer - Claw - Level 1 Tiles_3
+  - first:
+      213: -5175398835933593146
+    second: PC Computer - Claw - Level 1 Tiles_4
+  - first:
+      213: -5747467499827197908
+    second: PC Computer - Claw - Level 1 Tiles_5
+  - first:
+      213: -5601638608847878364
+    second: PC Computer - Claw - Level 1 Tiles_6
+  - first:
+      213: -5173658511125257013
+    second: PC Computer - Claw - Level 1 Tiles_7
+  - first:
+      213: -1754779201351221196
+    second: PC Computer - Claw - Level 1 Tiles_8
+  - first:
+      213: -571419967473304007
+    second: PC Computer - Claw - Level 1 Tiles_9
+  - first:
+      213: -8399595835748637990
+    second: PC Computer - Claw - Level 1 Tiles_10
+  - first:
+      213: -2205249785553111673
+    second: PC Computer - Claw - Level 1 Tiles_11
+  - first:
+      213: 8795657665914411038
+    second: PC Computer - Claw - Level 1 Tiles_12
+  - first:
+      213: 745984050264571315
+    second: PC Computer - Claw - Level 1 Tiles_13
+  - first:
+      213: -8059085365116471579
+    second: PC Computer - Claw - Level 1 Tiles_14
+  - first:
+      213: -3939284072530572008
+    second: PC Computer - Claw - Level 1 Tiles_15
+  - first:
+      213: -1192472215158296006
+    second: PC Computer - Claw - Level 1 Tiles_16
+  - first:
+      213: 5241121167749227958
+    second: PC Computer - Claw - Level 1 Tiles_17
+  - first:
+      213: -2446099429636108797
+    second: PC Computer - Claw - Level 1 Tiles_18
+  - first:
+      213: 5575278264050816088
+    second: PC Computer - Claw - Level 1 Tiles_19
+  - first:
+      213: 1108508746313775211
+    second: PC Computer - Claw - Level 1 Tiles_20
+  - first:
+      213: 6416255684530804472
+    second: PC Computer - Claw - Level 1 Tiles_21
+  - first:
+      213: 7318472792630110001
+    second: PC Computer - Claw - Level 1 Tiles_22
+  - first:
+      213: -4833535303279284389
+    second: PC Computer - Claw - Level 1 Tiles_23
+  - first:
+      213: -8983849969342302399
+    second: PC Computer - Claw - Level 1 Tiles_24
+  - first:
+      213: 6653403117698344460
+    second: PC Computer - Claw - Level 1 Tiles_25
+  - first:
+      213: -5554940122230481567
+    second: PC Computer - Claw - Level 1 Tiles_26
+  - first:
+      213: 5774386612868027206
+    second: PC Computer - Claw - Level 1 Tiles_27
+  - first:
+      213: 4389755704907301593
+    second: PC Computer - Claw - Level 1 Tiles_28
+  - first:
+      213: -6087586350936372708
+    second: PC Computer - Claw - Level 1 Tiles_29
+  - first:
+      213: -127338440934658193
+    second: PC Computer - Claw - Level 1 Tiles_30
+  - first:
+      213: -4127098070319620725
+    second: PC Computer - Claw - Level 1 Tiles_31
+  - first:
+      213: 3824211787942316082
+    second: PC Computer - Claw - Level 1 Tiles_32
+  - first:
+      213: 534931043384675302
+    second: PC Computer - Claw - Level 1 Tiles_33
+  - first:
+      213: 6579228284571072926
+    second: PC Computer - Claw - Level 1 Tiles_34
+  - first:
+      213: 4432675801157837295
+    second: PC Computer - Claw - Level 1 Tiles_35
+  - first:
+      213: 3357909133460323342
+    second: PC Computer - Claw - Level 1 Tiles_36
+  - first:
+      213: -2441216498208159892
+    second: PC Computer - Claw - Level 1 Tiles_37
+  - first:
+      213: -3045774347398526452
+    second: PC Computer - Claw - Level 1 Tiles_38
+  - first:
+      213: -1308072034131536823
+    second: PC Computer - Claw - Level 1 Tiles_39
+  - first:
+      213: -4910828927781177063
+    second: PC Computer - Claw - Level 1 Tiles_40
+  - first:
+      213: -1102509433964624238
+    second: PC Computer - Claw - Level 1 Tiles_41
+  - first:
+      213: 4784686502552659138
+    second: PC Computer - Claw - Level 1 Tiles_42
+  - first:
+      213: 1528998942846559946
+    second: PC Computer - Claw - Level 1 Tiles_43
+  - first:
+      213: 5498670832442350942
+    second: PC Computer - Claw - Level 1 Tiles_44
+  - first:
+      213: -1380901351227394939
+    second: PC Computer - Claw - Level 1 Tiles_45
+  - first:
+      213: 1176535043653247264
+    second: PC Computer - Claw - Level 1 Tiles_46
+  - first:
+      213: -5941780369417703644
+    second: PC Computer - Claw - Level 1 Tiles_47
+  - first:
+      213: 876335993704082999
+    second: PC Computer - Claw - Level 1 Tiles_48
+  - first:
+      213: -7087829996108941535
+    second: PC Computer - Claw - Level 1 Tiles_49
+  - first:
+      213: 2950803154134292396
+    second: PC Computer - Claw - Level 1 Tiles_50
+  - first:
+      213: 8767328970059268086
+    second: PC Computer - Claw - Level 1 Tiles_51
+  - first:
+      213: -5995594123048220619
+    second: PC Computer - Claw - Level 1 Tiles_52
+  - first:
+      213: -8831494616690775247
+    second: PC Computer - Claw - Level 1 Tiles_53
+  - first:
+      213: -5680707658986419520
+    second: PC Computer - Claw - Level 1 Tiles_54
+  - first:
+      213: -7598006356857000473
+    second: PC Computer - Claw - Level 1 Tiles_55
+  - first:
+      213: 4805809576417559466
+    second: PC Computer - Claw - Level 1 Tiles_56
+  - first:
+      213: -4052273500575658857
+    second: PC Computer - Claw - Level 1 Tiles_57
+  - first:
+      213: -6847646407737096030
+    second: PC Computer - Claw - Level 1 Tiles_58
+  - first:
+      213: -8085467903249831851
+    second: PC Computer - Claw - Level 1 Tiles_59
+  - first:
+      213: -8551913967774649436
+    second: PC Computer - Claw - Level 1 Tiles_60
+  - first:
+      213: -4191414223088070845
+    second: PC Computer - Claw - Level 1 Tiles_61
+  - first:
+      213: 8679597551996149997
+    second: PC Computer - Claw - Level 1 Tiles_62
+  - first:
+      213: -3466729458388673640
+    second: PC Computer - Claw - Level 1 Tiles_63
+  - first:
+      213: 7575652113446340655
+    second: PC Computer - Claw - Level 1 Tiles_64
+  - first:
+      213: -8556826465238638225
+    second: PC Computer - Claw - Level 1 Tiles_65
+  - first:
+      213: 8013115720288657368
+    second: PC Computer - Claw - Level 1 Tiles_66
+  - first:
+      213: -1629937651237791843
+    second: PC Computer - Claw - Level 1 Tiles_67
+  - first:
+      213: -1789746434775854869
+    second: PC Computer - Claw - Level 1 Tiles_68
+  - first:
+      213: 1008420436409013337
+    second: PC Computer - Claw - Level 1 Tiles_69
+  - first:
+      213: -8418138014378632839
+    second: PC Computer - Claw - Level 1 Tiles_70
+  - first:
+      213: 2766293232053551983
+    second: PC Computer - Claw - Level 1 Tiles_71
+  - first:
+      213: 2890024358147316163
+    second: PC Computer - Claw - Level 1 Tiles_72
+  - first:
+      213: 2063096042164060106
+    second: PC Computer - Claw - Level 1 Tiles_73
+  - first:
+      213: -4970871955959086710
+    second: PC Computer - Claw - Level 1 Tiles_74
+  - first:
+      213: -4236929070043166698
+    second: PC Computer - Claw - Level 1 Tiles_75
+  - first:
+      213: -4588772146961162074
+    second: PC Computer - Claw - Level 1 Tiles_76
+  - first:
+      213: 7402070633668635929
+    second: PC Computer - Claw - Level 1 Tiles_77
+  - first:
+      213: 3591176268262156415
+    second: PC Computer - Claw - Level 1 Tiles_78
+  - first:
+      213: -5515055035259617445
+    second: PC Computer - Claw - Level 1 Tiles_79
+  - first:
+      213: 3639733181654766145
+    second: PC Computer - Claw - Level 1 Tiles_80
+  - first:
+      213: 7446649596751761830
+    second: PC Computer - Claw - Level 1 Tiles_81
+  - first:
+      213: -1091955467741650921
+    second: PC Computer - Claw - Level 1 Tiles_82
+  - first:
+      213: -633619098897366201
+    second: PC Computer - Claw - Level 1 Tiles_83
+  - first:
+      213: 721281634138637264
+    second: PC Computer - Claw - Level 1 Tiles_84
+  - first:
+      213: -8714482953523452063
+    second: PC Computer - Claw - Level 1 Tiles_85
+  - first:
+      213: 4879883047322727373
+    second: PC Computer - Claw - Level 1 Tiles_86
+  - first:
+      213: 4943292561940289077
+    second: PC Computer - Claw - Level 1 Tiles_87
+  - first:
+      213: -111351019997072253
+    second: PC Computer - Claw - Level 1 Tiles_88
+  - first:
+      213: 8018654282867337261
+    second: PC Computer - Claw - Level 1 Tiles_89
+  - first:
+      213: -803887491286521774
+    second: PC Computer - Claw - Level 1 Tiles_90
+  - first:
+      213: -8624589720201522322
+    second: PC Computer - Claw - Level 1 Tiles_91
+  - first:
+      213: -6519331973767769116
+    second: PC Computer - Claw - Level 1 Tiles_92
+  - first:
+      213: -4922396258016798535
+    second: PC Computer - Claw - Level 1 Tiles_93
+  - first:
+      213: -7314706787472953721
+    second: PC Computer - Claw - Level 1 Tiles_94
+  - first:
+      213: -277747795981500896
+    second: PC Computer - Claw - Level 1 Tiles_95
+  - first:
+      213: 7842449854038045647
+    second: PC Computer - Claw - Level 1 Tiles_96
+  - first:
+      213: 7647563292144658868
+    second: PC Computer - Claw - Level 1 Tiles_97
+  - first:
+      213: 373229378106537303
+    second: PC Computer - Claw - Level 1 Tiles_98
+  - first:
+      213: -5503199883495532338
+    second: PC Computer - Claw - Level 1 Tiles_99
+  - first:
+      213: 6516964296449866504
+    second: PC Computer - Claw - Level 1 Tiles_100
+  - first:
+      213: -4317685045106391698
+    second: PC Computer - Claw - Level 1 Tiles_101
+  - first:
+      213: 4283514985966663557
+    second: PC Computer - Claw - Level 1 Tiles_102
+  - first:
+      213: 4196710866105513794
+    second: PC Computer - Claw - Level 1 Tiles_103
+  - first:
+      213: 7740731895359211296
+    second: PC Computer - Claw - Level 1 Tiles_104
+  - first:
+      213: -592335660137253850
+    second: PC Computer - Claw - Level 1 Tiles_105
+  - first:
+      213: -485752417052133204
+    second: PC Computer - Claw - Level 1 Tiles_106
+  - first:
+      213: -5156115113294995803
+    second: PC Computer - Claw - Level 1 Tiles_107
+  - first:
+      213: -7023490012555715762
+    second: PC Computer - Claw - Level 1 Tiles_108
+  - first:
+      213: 5307422229893524983
+    second: PC Computer - Claw - Level 1 Tiles_109
+  - first:
+      213: 6998493328108589836
+    second: PC Computer - Claw - Level 1 Tiles_110
+  - first:
+      213: 7305134215533618303
+    second: PC Computer - Claw - Level 1 Tiles_111
+  - first:
+      213: 3170907481498077596
+    second: PC Computer - Claw - Level 1 Tiles_112
+  - first:
+      213: -6610680782992188170
+    second: PC Computer - Claw - Level 1 Tiles_113
+  - first:
+      213: 978609341851433945
+    second: PC Computer - Claw - Level 1 Tiles_114
+  - first:
+      213: 6997616994956773257
+    second: PC Computer - Claw - Level 1 Tiles_115
+  - first:
+      213: 4798981395369842822
+    second: PC Computer - Claw - Level 1 Tiles_116
+  - first:
+      213: -4159213017624065343
+    second: PC Computer - Claw - Level 1 Tiles_117
+  - first:
+      213: -818981429741873581
+    second: PC Computer - Claw - Level 1 Tiles_118
+  - first:
+      213: -5529027690866752551
+    second: PC Computer - Claw - Level 1 Tiles_119
+  - first:
+      213: 5730723762447502053
+    second: PC Computer - Claw - Level 1 Tiles_120
+  - first:
+      213: 1732932056216640368
+    second: PC Computer - Claw - Level 1 Tiles_121
+  - first:
+      213: -7348038984182160594
+    second: PC Computer - Claw - Level 1 Tiles_122
+  - first:
+      213: 8260905913931198127
+    second: PC Computer - Claw - Level 1 Tiles_123
+  - first:
+      213: -176583006449399308
+    second: PC Computer - Claw - Level 1 Tiles_124
+  - first:
+      213: -6372731825582195851
+    second: PC Computer - Claw - Level 1 Tiles_125
+  - first:
+      213: -8847166246069517987
+    second: PC Computer - Claw - Level 1 Tiles_126
+  - first:
+      213: 2978673707935627993
+    second: PC Computer - Claw - Level 1 Tiles_127
+  - first:
+      213: -7907989290499879845
+    second: PC Computer - Claw - Level 1 Tiles_128
+  - first:
+      213: 1118061974512964026
+    second: PC Computer - Claw - Level 1 Tiles_129
+  - first:
+      213: 1860321340996458276
+    second: PC Computer - Claw - Level 1 Tiles_130
+  - first:
+      213: 7400981110649938572
+    second: PC Computer - Claw - Level 1 Tiles_131
+  - first:
+      213: 7744666155182624305
+    second: PC Computer - Claw - Level 1 Tiles_132
+  - first:
+      213: -837287974959910451
+    second: PC Computer - Claw - Level 1 Tiles_133
+  - first:
+      213: -7086043838711330220
+    second: PC Computer - Claw - Level 1 Tiles_134
+  - first:
+      213: -3809773707072735917
+    second: PC Computer - Claw - Level 1 Tiles_135
+  - first:
+      213: 7072704835500906961
+    second: PC Computer - Claw - Level 1 Tiles_136
+  - first:
+      213: -3592035929054330454
+    second: PC Computer - Claw - Level 1 Tiles_137
+  - first:
+      213: 7728481881688084214
+    second: PC Computer - Claw - Level 1 Tiles_138
+  - first:
+      213: -5844278891605011051
+    second: PC Computer - Claw - Level 1 Tiles_139
+  - first:
+      213: 1692502291301820092
+    second: PC Computer - Claw - Level 1 Tiles_140
+  - first:
+      213: -2941381155644360696
+    second: PC Computer - Claw - Level 1 Tiles_141
+  - first:
+      213: 8169569905996072458
+    second: PC Computer - Claw - Level 1 Tiles_142
+  - first:
+      213: -6000858304631427784
+    second: PC Computer - Claw - Level 1 Tiles_143
+  - first:
+      213: 5145567918558717229
+    second: PC Computer - Claw - Level 1 Tiles_144
+  - first:
+      213: 3061982496496776680
+    second: PC Computer - Claw - Level 1 Tiles_145
+  - first:
+      213: -8490039441882668510
+    second: PC Computer - Claw - Level 1 Tiles_146
+  - first:
+      213: 8398914921262833941
+    second: PC Computer - Claw - Level 1 Tiles_147
+  - first:
+      213: 4767048470561560538
+    second: PC Computer - Claw - Level 1 Tiles_148
+  - first:
+      213: -5762794247918804066
+    second: PC Computer - Claw - Level 1 Tiles_149
+  - first:
+      213: 5759931895489258935
+    second: PC Computer - Claw - Level 1 Tiles_150
+  - first:
+      213: 1863709181666575725
+    second: PC Computer - Claw - Level 1 Tiles_151
+  - first:
+      213: 7109695628825172199
+    second: PC Computer - Claw - Level 1 Tiles_152
+  - first:
+      213: -2025973784937059406
+    second: PC Computer - Claw - Level 1 Tiles_153
+  - first:
+      213: -4202766179303459035
+    second: PC Computer - Claw - Level 1 Tiles_154
+  - first:
+      213: -4884105170818100705
+    second: PC Computer - Claw - Level 1 Tiles_155
+  - first:
+      213: 5241669285405949017
+    second: PC Computer - Claw - Level 1 Tiles_156
+  - first:
+      213: 6835941393669416674
+    second: PC Computer - Claw - Level 1 Tiles_157
+  - first:
+      213: 4342490065290129462
+    second: PC Computer - Claw - Level 1 Tiles_158
+  - first:
+      213: 4216307770773391392
+    second: PC Computer - Claw - Level 1 Tiles_89
+  - first:
+      213: 607277721950517160
+    second: PC Computer - Claw - Level 1 Tiles_90
+  - first:
+      213: -3902242738596917900
+    second: PC Computer - Claw - Level 1 Tiles_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 929
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa4e3161604d05d0800000000000000
+      internalID: -3094746581946184963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fdc85b36ae54810800000000000000
+      internalID: 1749061744271875864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 942
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b895f6f759ac470800000000000000
+      internalID: 8415703228256717671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 942
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621e18fb2eb7087e0800000000000000
+      internalID: -1765274840123449050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 942
+        width: 62
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1453ddd2a4d28b0800000000000000
+      internalID: -5175398835933593146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2882b2a2c4ec30b0800000000000000
+      internalID: -5747467499827197908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427428f2d5bf242b0800000000000000
+      internalID: -5601638608847878364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e33fcef87338b0800000000000000
+      internalID: -5173658511125257013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 910
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43087341d95c5a7e0800000000000000
+      internalID: -1754779201351221196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 845
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e303d2198e118f0800000000000000
+      internalID: -571419967473304007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 845
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad22a512714ae6b80800000000000000
+      internalID: -8399595835748637990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 845
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785b91301016561e0800000000000000
+      internalID: -2205249785553111673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 845
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1815c6bb04701a70800000000000000
+      internalID: 8795657665914411038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 845
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd70249a844a5a00800000000000000
+      internalID: 745984050264571315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 845
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6fead2f80682090800000000000000
+      internalID: -8059085365116471579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 845
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d067bd10ad459c0800000000000000
+      internalID: -3939284072530572008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3277fa96dc737fe0800000000000000
+      internalID: -1192472215158296006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b52974fee33cb840800000000000000
+      internalID: 5241121167749227958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e014b5785bd0ed0800000000000000
+      internalID: -2446099429636108797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b683276e4d6326f00800000000000000
+      internalID: 1108508746313775211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -2, y: -32}
+        - {x: -2, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f61a80ec8e1b0950800000000000000
+      internalID: 6416255684530804472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 715
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137241fda30709560800000000000000
+      internalID: 7318472792630110001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f6ab63045dbecb0800000000000000
+      internalID: -4833535303279284389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_24
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 715
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32, y: -32}
+        - {x: -18, y: -32}
+        - {x: -18, y: 32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b2f52d04f25380800000000000000
+      internalID: -8983849969342302399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 585
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e2e162e2a55c50800000000000000
+      internalID: 6653403117698344460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 650
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d13e1e363e8e2b0800000000000000
+      internalID: -5554940122230481567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_27
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 650
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64315c7c70eb22050800000000000000
+      internalID: 5774386612868027206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 585
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d28eb14e8b8bec30800000000000000
+      internalID: 4389755704907301593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 650
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1acbec977c848ba0800000000000000
+      internalID: -6087586350936372708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_30
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 650
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f66d5dc5a9b3ef0800000000000000
+      internalID: -127338440934658193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_31
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 650
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d166ddb2a99b6c0800000000000000
+      internalID: -4127098070319620725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_32
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 585
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238c92e0c54521530800000000000000
+      internalID: 3824211787942316082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 650
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebc54423f47c6700800000000000000
+      internalID: 534931043384675302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_34
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 650
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99bf0e344d1e4b50800000000000000
+      internalID: 6579228284571072926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_35
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 650
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ab74e727048d30800000000000000
+      internalID: 4432675801157837295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_36
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 650
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -1}
+        - {x: -2, y: 32}
+        - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c31ffd090b99e20800000000000000
+      internalID: 3357909133460323342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_37
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 650
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32, y: -32}
+        - {x: 32, y: -1}
+        - {x: -32, y: -1}
+        - {x: -32, y: -32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67ca7c678e0f1ed0800000000000000
+      internalID: -2441216498208159892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 650
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 32, y: -1}
+        - {x: -1, y: -1}
+        - {x: -32, y: -1}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a40554e5c3bb5d0800000000000000
+      internalID: -3045774347398526452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_39
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 650
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9, y: 32}
+        - {x: -9, y: -1}
+        - {x: -32, y: -1}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94497f85a6bc8dde0800000000000000
+      internalID: -1308072034131536823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_40
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 585
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919f3eedb1b39dbb0800000000000000
+      internalID: -4910828927781177063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 585
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296850bd28913b0f0800000000000000
+      internalID: -1102509433964624238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_42
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 585
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 1}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c4e142160f966240800000000000000
+      internalID: 4784686502552659138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c857998be63c7c0800000000000000
+      internalID: -4052273500575658857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_87
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5361847f46a1a9440800000000000000
+      internalID: 4943292561940289077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_88
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 455
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38472b756d6647ef0800000000000000
+      internalID: -111351019997072253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_97
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96991bb4a912a60800000000000000
+      internalID: 7647563292144658868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_98
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 390
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755b7c5542afd2500800000000000000
+      internalID: 373229378106537303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae570b6f9cc178b0800000000000000
+      internalID: -5156115113294995803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_108
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 325
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bdc1eab0d878e90800000000000000
+      internalID: -7023490012555715762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_117
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 260
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca46530cc18746c0800000000000000
+      internalID: -4159213017624065343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Level 1 Tiles_118
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 260
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35618929ab462a4f0800000000000000
+      internalID: -818981429741873581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,6341 @@
+fileFormatVersion: 2
+guid: 2d6fa0214d9da7c439f281cec72568e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6803011369129579890
+    second: PC Computer - Claw - Captain Claw_0
+  - first:
+      213: -6433870906211542949
+    second: PC Computer - Claw - Captain Claw_1
+  - first:
+      213: 878213312618866747
+    second: PC Computer - Claw - Captain Claw_2
+  - first:
+      213: 2290406567364539929
+    second: PC Computer - Claw - Captain Claw_3
+  - first:
+      213: 9217948941277713040
+    second: PC Computer - Claw - Captain Claw_4
+  - first:
+      213: 6792431302781552407
+    second: PC Computer - Claw - Captain Claw_5
+  - first:
+      213: -8404928653370993315
+    second: PC Computer - Claw - Captain Claw_6
+  - first:
+      213: -2687323509751223616
+    second: PC Computer - Claw - Captain Claw_7
+  - first:
+      213: 8760262873709485475
+    second: PC Computer - Claw - Captain Claw_8
+  - first:
+      213: -1244761115338965773
+    second: PC Computer - Claw - Captain Claw_9
+  - first:
+      213: 3520432743123248864
+    second: PC Computer - Claw - Captain Claw_10
+  - first:
+      213: 301884006306566279
+    second: PC Computer - Claw - Captain Claw_11
+  - first:
+      213: 7032953478540353637
+    second: PC Computer - Claw - Captain Claw_12
+  - first:
+      213: 4738757905819705520
+    second: PC Computer - Claw - Captain Claw_13
+  - first:
+      213: 6554271482443845241
+    second: PC Computer - Claw - Captain Claw_14
+  - first:
+      213: -3912657263899959421
+    second: PC Computer - Claw - Captain Claw_15
+  - first:
+      213: -5544520279698804802
+    second: PC Computer - Claw - Captain Claw_16
+  - first:
+      213: 3488060841889053683
+    second: PC Computer - Claw - Captain Claw_17
+  - first:
+      213: 592086585029612401
+    second: PC Computer - Claw - Captain Claw_18
+  - first:
+      213: 3568341711694449624
+    second: PC Computer - Claw - Captain Claw_19
+  - first:
+      213: -261191123620856544
+    second: PC Computer - Claw - Captain Claw_20
+  - first:
+      213: -5446368771803525432
+    second: PC Computer - Claw - Captain Claw_21
+  - first:
+      213: -1725824819653709089
+    second: PC Computer - Claw - Captain Claw_22
+  - first:
+      213: -8670947766901378032
+    second: PC Computer - Claw - Captain Claw_23
+  - first:
+      213: 6309672070719634022
+    second: PC Computer - Claw - Captain Claw_24
+  - first:
+      213: -186385543719170958
+    second: PC Computer - Claw - Captain Claw_25
+  - first:
+      213: 3218439478894596118
+    second: PC Computer - Claw - Captain Claw_26
+  - first:
+      213: 3181109026267287629
+    second: PC Computer - Claw - Captain Claw_27
+  - first:
+      213: -7097260920410715691
+    second: PC Computer - Claw - Captain Claw_28
+  - first:
+      213: 263419645670720462
+    second: PC Computer - Claw - Captain Claw_29
+  - first:
+      213: 7341353711944202124
+    second: PC Computer - Claw - Captain Claw_30
+  - first:
+      213: -1670207941535806991
+    second: PC Computer - Claw - Captain Claw_31
+  - first:
+      213: 2371492146272733818
+    second: PC Computer - Claw - Captain Claw_32
+  - first:
+      213: 9063757984375085576
+    second: PC Computer - Claw - Captain Claw_33
+  - first:
+      213: 4902454147954384174
+    second: PC Computer - Claw - Captain Claw_34
+  - first:
+      213: -7448164733645446221
+    second: PC Computer - Claw - Captain Claw_35
+  - first:
+      213: -1901550142198888617
+    second: PC Computer - Claw - Captain Claw_36
+  - first:
+      213: 6721171169024591764
+    second: PC Computer - Claw - Captain Claw_37
+  - first:
+      213: -8048838975345524531
+    second: PC Computer - Claw - Captain Claw_38
+  - first:
+      213: 9031443555064319141
+    second: PC Computer - Claw - Captain Claw_39
+  - first:
+      213: -3191461078286044622
+    second: PC Computer - Claw - Captain Claw_40
+  - first:
+      213: -5450309048975575948
+    second: PC Computer - Claw - Captain Claw_41
+  - first:
+      213: -875627694228571944
+    second: PC Computer - Claw - Captain Claw_42
+  - first:
+      213: -1553756923169748018
+    second: PC Computer - Claw - Captain Claw_43
+  - first:
+      213: 3318211887763948107
+    second: PC Computer - Claw - Captain Claw_44
+  - first:
+      213: 5810350812667257491
+    second: PC Computer - Claw - Captain Claw_45
+  - first:
+      213: -1311758613405381722
+    second: PC Computer - Claw - Captain Claw_46
+  - first:
+      213: -4206930655417630858
+    second: PC Computer - Claw - Captain Claw_47
+  - first:
+      213: 5317815343014409005
+    second: PC Computer - Claw - Captain Claw_48
+  - first:
+      213: 8694400725358554304
+    second: PC Computer - Claw - Captain Claw_49
+  - first:
+      213: 11749608868850301
+    second: PC Computer - Claw - Captain Claw_50
+  - first:
+      213: 6417824331300293828
+    second: PC Computer - Claw - Captain Claw_51
+  - first:
+      213: 8996589521613991290
+    second: PC Computer - Claw - Captain Claw_52
+  - first:
+      213: -6311405516120740715
+    second: PC Computer - Claw - Captain Claw_53
+  - first:
+      213: -8037944420475647668
+    second: PC Computer - Claw - Captain Claw_54
+  - first:
+      213: 9202551533167862400
+    second: PC Computer - Claw - Captain Claw_55
+  - first:
+      213: 3783588588592781090
+    second: PC Computer - Claw - Captain Claw_56
+  - first:
+      213: 6122989962333067356
+    second: PC Computer - Claw - Captain Claw_57
+  - first:
+      213: 1070144582056028235
+    second: PC Computer - Claw - Captain Claw_58
+  - first:
+      213: 1946780066494487269
+    second: PC Computer - Claw - Captain Claw_59
+  - first:
+      213: 4748655527962362591
+    second: PC Computer - Claw - Captain Claw_60
+  - first:
+      213: 6251067657066885960
+    second: PC Computer - Claw - Captain Claw_61
+  - first:
+      213: -8399140791240776621
+    second: PC Computer - Claw - Captain Claw_62
+  - first:
+      213: -4785007572621240131
+    second: PC Computer - Claw - Captain Claw_63
+  - first:
+      213: 8234051002812738690
+    second: PC Computer - Claw - Captain Claw_64
+  - first:
+      213: 3177175946273797690
+    second: PC Computer - Claw - Captain Claw_65
+  - first:
+      213: 2419706293017150459
+    second: PC Computer - Claw - Captain Claw_66
+  - first:
+      213: 1508687719570274067
+    second: PC Computer - Claw - Captain Claw_67
+  - first:
+      213: 5403408109018879303
+    second: PC Computer - Claw - Captain Claw_68
+  - first:
+      213: -531439845768209859
+    second: PC Computer - Claw - Captain Claw_69
+  - first:
+      213: 5738101854915244421
+    second: PC Computer - Claw - Captain Claw_70
+  - first:
+      213: -4945564155356857994
+    second: PC Computer - Claw - Captain Claw_71
+  - first:
+      213: 8356269382027478768
+    second: PC Computer - Claw - Captain Claw_72
+  - first:
+      213: -5429328307193335511
+    second: PC Computer - Claw - Captain Claw_73
+  - first:
+      213: 8976891096623804750
+    second: PC Computer - Claw - Captain Claw_74
+  - first:
+      213: -7848323789632590961
+    second: PC Computer - Claw - Captain Claw_75
+  - first:
+      213: -6960128636086710510
+    second: PC Computer - Claw - Captain Claw_76
+  - first:
+      213: 7218274485017512377
+    second: PC Computer - Claw - Captain Claw_77
+  - first:
+      213: 7591567780152804218
+    second: PC Computer - Claw - Captain Claw_78
+  - first:
+      213: -5218437593287826253
+    second: PC Computer - Claw - Captain Claw_79
+  - first:
+      213: 2102722331602490298
+    second: PC Computer - Claw - Captain Claw_80
+  - first:
+      213: 8682459104666079590
+    second: PC Computer - Claw - Captain Claw_81
+  - first:
+      213: -2243286509024744351
+    second: PC Computer - Claw - Captain Claw_82
+  - first:
+      213: -91672264724480488
+    second: PC Computer - Claw - Captain Claw_83
+  - first:
+      213: 6135685934771218132
+    second: PC Computer - Claw - Captain Claw_84
+  - first:
+      213: 9041210886743667023
+    second: PC Computer - Claw - Captain Claw_85
+  - first:
+      213: 8411693743593812592
+    second: PC Computer - Claw - Captain Claw_86
+  - first:
+      213: -2868615484560345618
+    second: PC Computer - Claw - Captain Claw_87
+  - first:
+      213: -4823268711298916717
+    second: PC Computer - Claw - Captain Claw_88
+  - first:
+      213: 4245961737807991757
+    second: PC Computer - Claw - Captain Claw_89
+  - first:
+      213: -825589667909435681
+    second: PC Computer - Claw - Captain Claw_90
+  - first:
+      213: 8244111574481370399
+    second: PC Computer - Claw - Captain Claw_91
+  - first:
+      213: 8519531300213214350
+    second: PC Computer - Claw - Captain Claw_92
+  - first:
+      213: 3292816842582575508
+    second: PC Computer - Claw - Captain Claw_93
+  - first:
+      213: -3368382771501302888
+    second: PC Computer - Claw - Captain Claw_94
+  - first:
+      213: -3597473357582163631
+    second: PC Computer - Claw - Captain Claw_95
+  - first:
+      213: -3784265113544035381
+    second: PC Computer - Claw - Captain Claw_96
+  - first:
+      213: 5762162406920157580
+    second: PC Computer - Claw - Captain Claw_97
+  - first:
+      213: -5156934825536466740
+    second: PC Computer - Claw - Captain Claw_98
+  - first:
+      213: -8149571461417197644
+    second: PC Computer - Claw - Captain Claw_99
+  - first:
+      213: 3009995033419173323
+    second: PC Computer - Claw - Captain Claw_100
+  - first:
+      213: -6043300887979989252
+    second: PC Computer - Claw - Captain Claw_101
+  - first:
+      213: -1077783114588196223
+    second: PC Computer - Claw - Captain Claw_102
+  - first:
+      213: 5603891300076313011
+    second: PC Computer - Claw - Captain Claw_103
+  - first:
+      213: 8252242138720152234
+    second: PC Computer - Claw - Captain Claw_104
+  - first:
+      213: 3831586550482004111
+    second: PC Computer - Claw - Captain Claw_105
+  - first:
+      213: -6260652240682271474
+    second: PC Computer - Claw - Captain Claw_106
+  - first:
+      213: -7430655361223540759
+    second: PC Computer - Claw - Captain Claw_107
+  - first:
+      213: 4432209436005846182
+    second: PC Computer - Claw - Captain Claw_108
+  - first:
+      213: 8163967775223013298
+    second: PC Computer - Claw - Captain Claw_109
+  - first:
+      213: 3520969075168108783
+    second: PC Computer - Claw - Captain Claw_110
+  - first:
+      213: 1449489408495556645
+    second: PC Computer - Claw - Captain Claw_111
+  - first:
+      213: 1839139904621044416
+    second: PC Computer - Claw - Captain Claw_112
+  - first:
+      213: 3285351986173941405
+    second: PC Computer - Claw - Captain Claw_113
+  - first:
+      213: -7144349649013991560
+    second: PC Computer - Claw - Captain Claw_114
+  - first:
+      213: 89256341633401622
+    second: PC Computer - Claw - Captain Claw_115
+  - first:
+      213: 3526564714317563404
+    second: PC Computer - Claw - Captain Claw_116
+  - first:
+      213: -3765988771337892187
+    second: PC Computer - Claw - Captain Claw_117
+  - first:
+      213: -385143218997392449
+    second: PC Computer - Claw - Captain Claw_118
+  - first:
+      213: 3507889056952775371
+    second: PC Computer - Claw - Captain Claw_119
+  - first:
+      213: -5812287045384200547
+    second: PC Computer - Claw - Captain Claw_120
+  - first:
+      213: -3171534969689329189
+    second: PC Computer - Claw - Captain Claw_121
+  - first:
+      213: 4008647185202321091
+    second: PC Computer - Claw - Captain Claw_122
+  - first:
+      213: 6280145595213882168
+    second: PC Computer - Claw - Captain Claw_123
+  - first:
+      213: 9155751533588879238
+    second: PC Computer - Claw - Captain Claw_124
+  - first:
+      213: 2213237213803833321
+    second: PC Computer - Claw - Captain Claw_125
+  - first:
+      213: -1830527281123568094
+    second: PC Computer - Claw - Captain Claw_126
+  - first:
+      213: 2757381243578009457
+    second: PC Computer - Claw - Captain Claw_127
+  - first:
+      213: -3573275450639443374
+    second: PC Computer - Claw - Captain Claw_128
+  - first:
+      213: -333140185522974653
+    second: PC Computer - Claw - Captain Claw_129
+  - first:
+      213: 4258697557109977901
+    second: PC Computer - Claw - Captain Claw_130
+  - first:
+      213: 4633399313759726041
+    second: PC Computer - Claw - Captain Claw_131
+  - first:
+      213: -5162032384074972085
+    second: PC Computer - Claw - Captain Claw_132
+  - first:
+      213: -2078590408393617444
+    second: PC Computer - Claw - Captain Claw_133
+  - first:
+      213: -5883703892047893445
+    second: PC Computer - Claw - Captain Claw_134
+  - first:
+      213: -6153555538601477717
+    second: PC Computer - Claw - Captain Claw_135
+  - first:
+      213: 6985878319488943336
+    second: PC Computer - Claw - Captain Claw_136
+  - first:
+      213: 3607592576547362781
+    second: PC Computer - Claw - Captain Claw_137
+  - first:
+      213: -6957497640635591039
+    second: PC Computer - Claw - Captain Claw_138
+  - first:
+      213: -1457066379182926664
+    second: PC Computer - Claw - Captain Claw_139
+  - first:
+      213: 1502713412854622611
+    second: PC Computer - Claw - Captain Claw_140
+  - first:
+      213: -1721377221893896781
+    second: PC Computer - Claw - Captain Claw_141
+  - first:
+      213: 8680891718872336188
+    second: PC Computer - Claw - Captain Claw_142
+  - first:
+      213: -783654642395587840
+    second: PC Computer - Claw - Captain Claw_143
+  - first:
+      213: -5023917413188478811
+    second: PC Computer - Claw - Captain Claw_144
+  - first:
+      213: 2753445269721949278
+    second: PC Computer - Claw - Captain Claw_145
+  - first:
+      213: -6394647931713712558
+    second: PC Computer - Claw - Captain Claw_146
+  - first:
+      213: -2976601068108800371
+    second: PC Computer - Claw - Captain Claw_147
+  - first:
+      213: 8022894371664176416
+    second: PC Computer - Claw - Captain Claw_148
+  - first:
+      213: -874845842539312990
+    second: PC Computer - Claw - Captain Claw_149
+  - first:
+      213: -8435952267527862951
+    second: PC Computer - Claw - Captain Claw_150
+  - first:
+      213: -5574276116962707035
+    second: PC Computer - Claw - Captain Claw_151
+  - first:
+      213: -1799162860513406610
+    second: PC Computer - Claw - Captain Claw_152
+  - first:
+      213: -5157348789453521324
+    second: PC Computer - Claw - Captain Claw_153
+  - first:
+      213: 5671682767210336288
+    second: PC Computer - Claw - Captain Claw_154
+  - first:
+      213: -6759232433099060507
+    second: PC Computer - Claw - Captain Claw_155
+  - first:
+      213: 8940676879340621434
+    second: PC Computer - Claw - Captain Claw_156
+  - first:
+      213: 945786319216602386
+    second: PC Computer - Claw - Captain Claw_157
+  - first:
+      213: -6348833530278649908
+    second: PC Computer - Claw - Captain Claw_158
+  - first:
+      213: 488867474577532258
+    second: PC Computer - Claw - Captain Claw_159
+  - first:
+      213: 1060312937983761223
+    second: PC Computer - Claw - Captain Claw_160
+  - first:
+      213: 2049007448092574014
+    second: PC Computer - Claw - Captain Claw_161
+  - first:
+      213: -6392930895856126468
+    second: PC Computer - Claw - Captain Claw_162
+  - first:
+      213: 8454308690388405584
+    second: PC Computer - Claw - Captain Claw_163
+  - first:
+      213: 4208507825034964950
+    second: PC Computer - Claw - Captain Claw_164
+  - first:
+      213: -268276337375551633
+    second: PC Computer - Claw - Captain Claw_165
+  - first:
+      213: 2808745148078676826
+    second: PC Computer - Claw - Captain Claw_166
+  - first:
+      213: 3096314895629698969
+    second: PC Computer - Claw - Captain Claw_167
+  - first:
+      213: 3685978645496158454
+    second: PC Computer - Claw - Captain Claw_168
+  - first:
+      213: -3647131093910863489
+    second: PC Computer - Claw - Captain Claw_169
+  - first:
+      213: -6580843458682909400
+    second: PC Computer - Claw - Captain Claw_170
+  - first:
+      213: -4159384399153065355
+    second: PC Computer - Claw - Captain Claw_171
+  - first:
+      213: 5641278508535416398
+    second: PC Computer - Claw - Captain Claw_172
+  - first:
+      213: 445664466299630070
+    second: PC Computer - Claw - Captain Claw_173
+  - first:
+      213: 1140758096792197020
+    second: PC Computer - Claw - Captain Claw_174
+  - first:
+      213: 1073857056733133302
+    second: PC Computer - Claw - Captain Claw_175
+  - first:
+      213: 3466492321362775290
+    second: PC Computer - Claw - Captain Claw_176
+  - first:
+      213: -3154270356431125499
+    second: PC Computer - Claw - Captain Claw_177
+  - first:
+      213: -2168003462251738464
+    second: PC Computer - Claw - Captain Claw_178
+  - first:
+      213: -4793700295652963255
+    second: PC Computer - Claw - Captain Claw_179
+  - first:
+      213: 9067636562496069178
+    second: PC Computer - Claw - Captain Claw_180
+  - first:
+      213: 210306987310431454
+    second: PC Computer - Claw - Captain Claw_181
+  - first:
+      213: 5347274936605775581
+    second: PC Computer - Claw - Captain Claw_182
+  - first:
+      213: -631289856983823794
+    second: PC Computer - Claw - Captain Claw_183
+  - first:
+      213: 112251881314664619
+    second: PC Computer - Claw - Captain Claw_184
+  - first:
+      213: 5690264122915120463
+    second: PC Computer - Claw - Captain Claw_185
+  - first:
+      213: 8241916731197433036
+    second: PC Computer - Claw - Captain Claw_186
+  - first:
+      213: 3911199870066083689
+    second: PC Computer - Claw - Captain Claw_187
+  - first:
+      213: -7240408812929389741
+    second: PC Computer - Claw - Captain Claw_188
+  - first:
+      213: -8212010893142064646
+    second: PC Computer - Claw - Captain Claw_189
+  - first:
+      213: 3625167630220761417
+    second: PC Computer - Claw - Captain Claw_190
+  - first:
+      213: 6058896655233944308
+    second: PC Computer - Claw - Captain Claw_191
+  - first:
+      213: -2353873542877939891
+    second: PC Computer - Claw - Captain Claw_192
+  - first:
+      213: 1130248752133195235
+    second: PC Computer - Claw - Captain Claw_193
+  - first:
+      213: 8389341620120306711
+    second: PC Computer - Claw - Captain Claw_194
+  - first:
+      213: -1421048699448482504
+    second: PC Computer - Claw - Captain Claw_195
+  - first:
+      213: -4252559850821058695
+    second: PC Computer - Claw - Captain Claw_196
+  - first:
+      213: 9060209139064838894
+    second: PC Computer - Claw - Captain Claw_197
+  - first:
+      213: -7579951940718663390
+    second: PC Computer - Claw - Captain Claw_198
+  - first:
+      213: 852097410464116847
+    second: PC Computer - Claw - Captain Claw_199
+  - first:
+      213: -2092108988988156060
+    second: PC Computer - Claw - Captain Claw_200
+  - first:
+      213: -4842489308248901380
+    second: PC Computer - Claw - Captain Claw_201
+  - first:
+      213: 6595008744086812059
+    second: PC Computer - Claw - Captain Claw_202
+  - first:
+      213: -3317349633542878392
+    second: PC Computer - Claw - Captain Claw_203
+  - first:
+      213: -9022995383782723474
+    second: PC Computer - Claw - Captain Claw_204
+  - first:
+      213: -3634349542007002015
+    second: PC Computer - Claw - Captain Claw_205
+  - first:
+      213: 9178869441759183375
+    second: PC Computer - Claw - Captain Claw_206
+  - first:
+      213: -2024580558484264073
+    second: PC Computer - Claw - Captain Claw_207
+  - first:
+      213: 9107424489244251660
+    second: PC Computer - Claw - Captain Claw_208
+  - first:
+      213: 1899249323357864453
+    second: PC Computer - Claw - Captain Claw_209
+  - first:
+      213: -2833583816956166081
+    second: PC Computer - Claw - Captain Claw_210
+  - first:
+      213: -8106749023069880557
+    second: PC Computer - Claw - Captain Claw_211
+  - first:
+      213: -6944294344049261307
+    second: PC Computer - Claw - Captain Claw_212
+  - first:
+      213: 4292012377496457257
+    second: PC Computer - Claw - Captain Claw_213
+  - first:
+      213: -8394404072856063612
+    second: PC Computer - Claw - Captain Claw_214
+  - first:
+      213: 1787279248532991676
+    second: PC Computer - Claw - Captain Claw_215
+  - first:
+      213: -2818442213076127065
+    second: PC Computer - Claw - Captain Claw_216
+  - first:
+      213: -2723294371787816360
+    second: PC Computer - Claw - Captain Claw_217
+  - first:
+      213: 4853516595566530605
+    second: PC Computer - Claw - Captain Claw_218
+  - first:
+      213: -5231686356166483261
+    second: PC Computer - Claw - Captain Claw_219
+  - first:
+      213: -758220208474411626
+    second: PC Computer - Claw - Captain Claw_220
+  - first:
+      213: -7198405975913144373
+    second: PC Computer - Claw - Captain Claw_221
+  - first:
+      213: -2121233241023917601
+    second: PC Computer - Claw - Captain Claw_222
+  - first:
+      213: 3638614059174324238
+    second: PC Computer - Claw - Captain Claw_223
+  - first:
+      213: 1515274161684961903
+    second: PC Computer - Claw - Captain Claw_224
+  - first:
+      213: -909238121516781794
+    second: PC Computer - Claw - Captain Claw_225
+  - first:
+      213: -4583985425542546138
+    second: PC Computer - Claw - Captain Claw_226
+  - first:
+      213: -1179237743577207009
+    second: PC Computer - Claw - Captain Claw_227
+  - first:
+      213: -8906686026475703869
+    second: PC Computer - Claw - Captain Claw_228
+  - first:
+      213: -6968321424665245358
+    second: PC Computer - Claw - Captain Claw_229
+  - first:
+      213: -216239801032929037
+    second: PC Computer - Claw - Captain Claw_230
+  - first:
+      213: -2300287664493653284
+    second: PC Computer - Claw - Captain Claw_0
+  - first:
+      213: -6892617342243758631
+    second: PC Computer - Claw - Captain Claw_1
+  - first:
+      213: 3412421322668603613
+    second: PC Computer - Claw - Captain Claw_2
+  - first:
+      213: -5748998355718769544
+    second: PC Computer - Claw - Captain Claw_3
+  - first:
+      213: -6413609329256081350
+    second: PC Computer - Claw - Captain Claw_4
+  - first:
+      213: 4917578625345562177
+    second: PC Computer - Claw - Captain Claw_5
+  - first:
+      213: 8522188799409406610
+    second: PC Computer - Claw - Captain Claw_6
+  - first:
+      213: -5868600908548732620
+    second: PC Computer - Claw - Captain Claw_7
+  - first:
+      213: -346670096360125246
+    second: PC Computer - Claw - Captain Claw_8
+  - first:
+      213: 7348355206908578601
+    second: PC Computer - Claw - Captain Claw_9
+  - first:
+      213: 3926183171988438917
+    second: PC Computer - Claw - Captain Claw_10
+  - first:
+      213: 2602259942077498774
+    second: PC Computer - Claw - Captain Claw_11
+  - first:
+      213: 39470541597637390
+    second: PC Computer - Claw - Captain Claw_12
+  - first:
+      213: 3576036836619488087
+    second: PC Computer - Claw - Captain Claw_13
+  - first:
+      213: -7539675734550559195
+    second: PC Computer - Claw - Captain Claw_14
+  - first:
+      213: -4208942082694504633
+    second: PC Computer - Claw - Captain Claw_15
+  - first:
+      213: -4916514863003471512
+    second: PC Computer - Claw - Captain Claw_16
+  - first:
+      213: -996859894223383913
+    second: PC Computer - Claw - Captain Claw_17
+  - first:
+      213: -5245463336003376246
+    second: PC Computer - Claw - Captain Claw_18
+  - first:
+      213: -6111195541932651238
+    second: PC Computer - Claw - Captain Claw_19
+  - first:
+      213: -2819284966022140672
+    second: PC Computer - Claw - Captain Claw_20
+  - first:
+      213: 5819189065171762409
+    second: PC Computer - Claw - Captain Claw_21
+  - first:
+      213: -6176494142352892447
+    second: PC Computer - Claw - Captain Claw_22
+  - first:
+      213: 5102962620646659917
+    second: PC Computer - Claw - Captain Claw_23
+  - first:
+      213: 7938853446448004931
+    second: PC Computer - Claw - Captain Claw_24
+  - first:
+      213: 1213565478647233854
+    second: PC Computer - Claw - Captain Claw_25
+  - first:
+      213: 1318797937705606619
+    second: PC Computer - Claw - Captain Claw_26
+  - first:
+      213: -3557681365989844840
+    second: PC Computer - Claw - Captain Claw_27
+  - first:
+      213: -8440445552224553751
+    second: PC Computer - Claw - Captain Claw_28
+  - first:
+      213: -3502873315116408571
+    second: PC Computer - Claw - Captain Claw_29
+  - first:
+      213: -74135391820904330
+    second: PC Computer - Claw - Captain Claw_30
+  - first:
+      213: 8833782257105378606
+    second: PC Computer - Claw - Captain Claw_31
+  - first:
+      213: 7501956023197815263
+    second: PC Computer - Claw - Captain Claw_32
+  - first:
+      213: 8595056484592659028
+    second: PC Computer - Claw - Captain Claw_33
+  - first:
+      213: 3379219522167331794
+    second: PC Computer - Claw - Captain Claw_34
+  - first:
+      213: -6433751172324202550
+    second: PC Computer - Claw - Captain Claw_35
+  - first:
+      213: 5515412956659996974
+    second: PC Computer - Claw - Captain Claw_36
+  - first:
+      213: -4798851012621171
+    second: PC Computer - Claw - Captain Claw_37
+  - first:
+      213: 1934592010588236064
+    second: PC Computer - Claw - Captain Claw_38
+  - first:
+      213: 9036428041167487339
+    second: PC Computer - Claw - Captain Claw_39
+  - first:
+      213: 4131247206222492273
+    second: PC Computer - Claw - Captain Claw_40
+  - first:
+      213: 2598224140276357605
+    second: PC Computer - Claw - Captain Claw_41
+  - first:
+      213: 8706792133359552950
+    second: PC Computer - Claw - Captain Claw_42
+  - first:
+      213: -2335851993151845516
+    second: PC Computer - Claw - Captain Claw_43
+  - first:
+      213: 6957416760120728043
+    second: PC Computer - Claw - Captain Claw_44
+  - first:
+      213: -8189099272837517931
+    second: PC Computer - Claw - Captain Claw_45
+  - first:
+      213: 8417559922364586174
+    second: PC Computer - Claw - Captain Claw_46
+  - first:
+      213: -1642009779953888591
+    second: PC Computer - Claw - Captain Claw_47
+  - first:
+      213: -5010036543000543436
+    second: PC Computer - Claw - Captain Claw_48
+  - first:
+      213: -4391867033723529074
+    second: PC Computer - Claw - Captain Claw_49
+  - first:
+      213: 2528741630650613060
+    second: PC Computer - Claw - Captain Claw_50
+  - first:
+      213: -6005447584279877431
+    second: PC Computer - Claw - Captain Claw_51
+  - first:
+      213: 8596095744730896685
+    second: PC Computer - Claw - Captain Claw_52
+  - first:
+      213: -2333681147461273971
+    second: PC Computer - Claw - Captain Claw_53
+  - first:
+      213: 4904782196624532703
+    second: PC Computer - Claw - Captain Claw_54
+  - first:
+      213: 8645169195516550064
+    second: PC Computer - Claw - Captain Claw_55
+  - first:
+      213: 512799472896611816
+    second: PC Computer - Claw - Captain Claw_56
+  - first:
+      213: 5653030681379898545
+    second: PC Computer - Claw - Captain Claw_57
+  - first:
+      213: -5976262749652122088
+    second: PC Computer - Claw - Captain Claw_58
+  - first:
+      213: 1564665731265366084
+    second: PC Computer - Claw - Captain Claw_59
+  - first:
+      213: 5836145740940647298
+    second: PC Computer - Claw - Captain Claw_60
+  - first:
+      213: 8305417614370914971
+    second: PC Computer - Claw - Captain Claw_61
+  - first:
+      213: 4562603099366988826
+    second: PC Computer - Claw - Captain Claw_62
+  - first:
+      213: -6213705777984492171
+    second: PC Computer - Claw - Captain Claw_63
+  - first:
+      213: -6187113773609518371
+    second: PC Computer - Claw - Captain Claw_64
+  - first:
+      213: -9211352292195860883
+    second: PC Computer - Claw - Captain Claw_65
+  - first:
+      213: 4579140291293729990
+    second: PC Computer - Claw - Captain Claw_66
+  - first:
+      213: 394696206455122031
+    second: PC Computer - Claw - Captain Claw_67
+  - first:
+      213: -8584191183463728551
+    second: PC Computer - Claw - Captain Claw_68
+  - first:
+      213: 146341838058863008
+    second: PC Computer - Claw - Captain Claw_69
+  - first:
+      213: 4841631774181949376
+    second: PC Computer - Claw - Captain Claw_70
+  - first:
+      213: 5953051507881516883
+    second: PC Computer - Claw - Captain Claw_71
+  - first:
+      213: 1736126348834205397
+    second: PC Computer - Claw - Captain Claw_72
+  - first:
+      213: 8183102827430562041
+    second: PC Computer - Claw - Captain Claw_73
+  - first:
+      213: 3510462626501869413
+    second: PC Computer - Claw - Captain Claw_74
+  - first:
+      213: -1708798879766571423
+    second: PC Computer - Claw - Captain Claw_75
+  - first:
+      213: 1635187741329549720
+    second: PC Computer - Claw - Captain Claw_76
+  - first:
+      213: -785953430023672935
+    second: PC Computer - Claw - Captain Claw_77
+  - first:
+      213: 1615819323090045718
+    second: PC Computer - Claw - Captain Claw_78
+  - first:
+      213: 6955552897871084741
+    second: PC Computer - Claw - Captain Claw_79
+  - first:
+      213: 5926949671755428700
+    second: PC Computer - Claw - Captain Claw_80
+  - first:
+      213: 688695260780404650
+    second: PC Computer - Claw - Captain Claw_81
+  - first:
+      213: 7928864448490934345
+    second: PC Computer - Claw - Captain Claw_82
+  - first:
+      213: -4223452468350292000
+    second: PC Computer - Claw - Captain Claw_83
+  - first:
+      213: -6792717341598408661
+    second: PC Computer - Claw - Captain Claw_84
+  - first:
+      213: -2508227716164738870
+    second: PC Computer - Claw - Captain Claw_85
+  - first:
+      213: 437392699826264491
+    second: PC Computer - Claw - Captain Claw_86
+  - first:
+      213: -1153147419923416838
+    second: PC Computer - Claw - Captain Claw_87
+  - first:
+      213: -1229531213873399384
+    second: PC Computer - Claw - Captain Claw_88
+  - first:
+      213: 8571144247077957985
+    second: PC Computer - Claw - Captain Claw_89
+  - first:
+      213: 3542130893889216284
+    second: PC Computer - Claw - Captain Claw_90
+  - first:
+      213: -6962941705301605437
+    second: PC Computer - Claw - Captain Claw_91
+  - first:
+      213: -5003082605853530954
+    second: PC Computer - Claw - Captain Claw_92
+  - first:
+      213: -2614490875782676158
+    second: PC Computer - Claw - Captain Claw_93
+  - first:
+      213: 4305039853901768847
+    second: PC Computer - Claw - Captain Claw_94
+  - first:
+      213: -6264048628247763751
+    second: PC Computer - Claw - Captain Claw_95
+  - first:
+      213: 6929696237827796179
+    second: PC Computer - Claw - Captain Claw_96
+  - first:
+      213: 6970494560772821856
+    second: PC Computer - Claw - Captain Claw_97
+  - first:
+      213: -4721311929876355809
+    second: PC Computer - Claw - Captain Claw_98
+  - first:
+      213: -7996781520414230512
+    second: PC Computer - Claw - Captain Claw_99
+  - first:
+      213: 5436277055942576676
+    second: PC Computer - Claw - Captain Claw_100
+  - first:
+      213: -6599631098603095340
+    second: PC Computer - Claw - Captain Claw_101
+  - first:
+      213: 2467834275051535164
+    second: PC Computer - Claw - Captain Claw_102
+  - first:
+      213: 6286095928377206746
+    second: PC Computer - Claw - Captain Claw_103
+  - first:
+      213: 6894792093749149402
+    second: PC Computer - Claw - Captain Claw_104
+  - first:
+      213: 4970600421056011069
+    second: PC Computer - Claw - Captain Claw_105
+  - first:
+      213: 1516787393588479434
+    second: PC Computer - Claw - Captain Claw_106
+  - first:
+      213: 5441438787503739535
+    second: PC Computer - Claw - Captain Claw_107
+  - first:
+      213: -8947090736559920130
+    second: PC Computer - Claw - Captain Claw_108
+  - first:
+      213: 5643762940443808575
+    second: PC Computer - Claw - Captain Claw_109
+  - first:
+      213: -709121200155810611
+    second: PC Computer - Claw - Captain Claw_110
+  - first:
+      213: -5609479592447297100
+    second: PC Computer - Claw - Captain Claw_111
+  - first:
+      213: 5926250838607390078
+    second: PC Computer - Claw - Captain Claw_112
+  - first:
+      213: -3016434723671154581
+    second: PC Computer - Claw - Captain Claw_113
+  - first:
+      213: -5853840579968667930
+    second: PC Computer - Claw - Captain Claw_114
+  - first:
+      213: 2337715821356718292
+    second: PC Computer - Claw - Captain Claw_115
+  - first:
+      213: -5820969282863678608
+    second: PC Computer - Claw - Captain Claw_116
+  - first:
+      213: -630833239350650960
+    second: PC Computer - Claw - Captain Claw_117
+  - first:
+      213: -750019513120584306
+    second: PC Computer - Claw - Captain Claw_118
+  - first:
+      213: -594016651596202666
+    second: PC Computer - Claw - Captain Claw_119
+  - first:
+      213: -5966998805971314101
+    second: PC Computer - Claw - Captain Claw_120
+  - first:
+      213: 5765038433848262900
+    second: PC Computer - Claw - Captain Claw_121
+  - first:
+      213: -942190192642625251
+    second: PC Computer - Claw - Captain Claw_122
+  - first:
+      213: -562510723591396425
+    second: PC Computer - Claw - Captain Claw_123
+  - first:
+      213: -8238075531818406624
+    second: PC Computer - Claw - Captain Claw_124
+  - first:
+      213: -5593656976685558678
+    second: PC Computer - Claw - Captain Claw_125
+  - first:
+      213: -5783203521357537812
+    second: PC Computer - Claw - Captain Claw_126
+  - first:
+      213: 7760511940229287223
+    second: PC Computer - Claw - Captain Claw_127
+  - first:
+      213: 2453508316665571507
+    second: PC Computer - Claw - Captain Claw_128
+  - first:
+      213: -7107304107366094990
+    second: PC Computer - Claw - Captain Claw_129
+  - first:
+      213: -5909162899760104296
+    second: PC Computer - Claw - Captain Claw_130
+  - first:
+      213: -4918185215385863390
+    second: PC Computer - Claw - Captain Claw_131
+  - first:
+      213: -6140252684422189109
+    second: PC Computer - Claw - Captain Claw_132
+  - first:
+      213: -2437004070666894517
+    second: PC Computer - Claw - Captain Claw_133
+  - first:
+      213: 5111046517697435843
+    second: PC Computer - Claw - Captain Claw_134
+  - first:
+      213: 8109589170587616703
+    second: PC Computer - Claw - Captain Claw_135
+  - first:
+      213: 5008561986427318415
+    second: PC Computer - Claw - Captain Claw_136
+  - first:
+      213: -7263523795283502379
+    second: PC Computer - Claw - Captain Claw_137
+  - first:
+      213: -7266957644173744283
+    second: PC Computer - Claw - Captain Claw_138
+  - first:
+      213: 8121862476613091679
+    second: PC Computer - Claw - Captain Claw_139
+  - first:
+      213: -8406078360170447743
+    second: PC Computer - Claw - Captain Claw_140
+  - first:
+      213: -3210540028065441858
+    second: PC Computer - Claw - Captain Claw_141
+  - first:
+      213: -4559443383249846091
+    second: PC Computer - Claw - Captain Claw_142
+  - first:
+      213: 2223145525993407883
+    second: PC Computer - Claw - Captain Claw_143
+  - first:
+      213: -7728656893921552364
+    second: PC Computer - Claw - Captain Claw_144
+  - first:
+      213: -1283713186786787941
+    second: PC Computer - Claw - Captain Claw_145
+  - first:
+      213: -6935092467445273713
+    second: PC Computer - Claw - Captain Claw_146
+  - first:
+      213: -1912557354882567911
+    second: PC Computer - Claw - Captain Claw_147
+  - first:
+      213: 1249490481818571590
+    second: PC Computer - Claw - Captain Claw_148
+  - first:
+      213: 964855437170976984
+    second: PC Computer - Claw - Captain Claw_149
+  - first:
+      213: -4057106119144110250
+    second: PC Computer - Claw - Captain Claw_150
+  - first:
+      213: -7089694340540540591
+    second: PC Computer - Claw - Captain Claw_151
+  - first:
+      213: -880760840178759261
+    second: PC Computer - Claw - Captain Claw_152
+  - first:
+      213: -5433135521356894356
+    second: PC Computer - Claw - Captain Claw_153
+  - first:
+      213: 3572003976672762709
+    second: PC Computer - Claw - Captain Claw_154
+  - first:
+      213: 7271547153801738870
+    second: PC Computer - Claw - Captain Claw_155
+  - first:
+      213: 2517394719344162066
+    second: PC Computer - Claw - Captain Claw_156
+  - first:
+      213: 4376746165745436236
+    second: PC Computer - Claw - Captain Claw_157
+  - first:
+      213: 8083048659513160042
+    second: PC Computer - Claw - Captain Claw_158
+  - first:
+      213: 7073922585808511343
+    second: PC Computer - Claw - Captain Claw_159
+  - first:
+      213: -2769381460759518928
+    second: PC Computer - Claw - Captain Claw_160
+  - first:
+      213: 3540516737492687260
+    second: PC Computer - Claw - Captain Claw_161
+  - first:
+      213: 8415697033632246547
+    second: PC Computer - Claw - Captain Claw_162
+  - first:
+      213: 105864350630126198
+    second: PC Computer - Claw - Captain Claw_163
+  - first:
+      213: -5971929701370266224
+    second: PC Computer - Claw - Captain Claw_164
+  - first:
+      213: -5914485673915745147
+    second: PC Computer - Claw - Captain Claw_165
+  - first:
+      213: 4900369811256213221
+    second: PC Computer - Claw - Captain Claw_166
+  - first:
+      213: -8473656510368861573
+    second: PC Computer - Claw - Captain Claw_167
+  - first:
+      213: -732313467297612135
+    second: PC Computer - Claw - Captain Claw_168
+  - first:
+      213: 8816303730378509816
+    second: PC Computer - Claw - Captain Claw_169
+  - first:
+      213: 3740383699161081802
+    second: PC Computer - Claw - Captain Claw_170
+  - first:
+      213: 8252723429587563271
+    second: PC Computer - Claw - Captain Claw_171
+  - first:
+      213: 99910540490613639
+    second: PC Computer - Claw - Captain Claw_172
+  - first:
+      213: -3162368784564222372
+    second: PC Computer - Claw - Captain Claw_173
+  - first:
+      213: -1246160467140942232
+    second: PC Computer - Claw - Captain Claw_174
+  - first:
+      213: -2426175497080246876
+    second: PC Computer - Claw - Captain Claw_175
+  - first:
+      213: -5250434926758485228
+    second: PC Computer - Claw - Captain Claw_176
+  - first:
+      213: 1297730184538935451
+    second: PC Computer - Claw - Captain Claw_177
+  - first:
+      213: -8002935612404650848
+    second: PC Computer - Claw - Captain Claw_178
+  - first:
+      213: 5684267467215224125
+    second: PC Computer - Claw - Captain Claw_179
+  - first:
+      213: 448629293853610808
+    second: PC Computer - Claw - Captain Claw_180
+  - first:
+      213: -7480751625704660440
+    second: PC Computer - Claw - Captain Claw_181
+  - first:
+      213: -7179480161014271325
+    second: PC Computer - Claw - Captain Claw_182
+  - first:
+      213: -3856077855968271890
+    second: PC Computer - Claw - Captain Claw_183
+  - first:
+      213: 3256309248755116092
+    second: PC Computer - Claw - Captain Claw_184
+  - first:
+      213: 8786897425151823440
+    second: PC Computer - Claw - Captain Claw_185
+  - first:
+      213: -5375677541172605404
+    second: PC Computer - Claw - Captain Claw_186
+  - first:
+      213: -155344489903830427
+    second: PC Computer - Claw - Captain Claw_187
+  - first:
+      213: 6553017480022382603
+    second: PC Computer - Claw - Captain Claw_188
+  - first:
+      213: 3451892814108349800
+    second: PC Computer - Claw - Captain Claw_189
+  - first:
+      213: -1101174998382808889
+    second: PC Computer - Claw - Captain Claw_190
+  - first:
+      213: 7695708530541529914
+    second: PC Computer - Claw - Captain Claw_191
+  - first:
+      213: -9094554128730237178
+    second: PC Computer - Claw - Captain Claw_192
+  - first:
+      213: 3692042085663453316
+    second: PC Computer - Claw - Captain Claw_193
+  - first:
+      213: 1328774218238985271
+    second: PC Computer - Claw - Captain Claw_194
+  - first:
+      213: 1767283134411655657
+    second: PC Computer - Claw - Captain Claw_195
+  - first:
+      213: 743552993830764330
+    second: PC Computer - Claw - Captain Claw_196
+  - first:
+      213: 7023909698000337276
+    second: PC Computer - Claw - Captain Claw_197
+  - first:
+      213: -8947165523124829191
+    second: PC Computer - Claw - Captain Claw_198
+  - first:
+      213: -4870584827634516841
+    second: PC Computer - Claw - Captain Claw_199
+  - first:
+      213: 3422456026413813320
+    second: PC Computer - Claw - Captain Claw_200
+  - first:
+      213: -8955274818701962797
+    second: PC Computer - Claw - Captain Claw_201
+  - first:
+      213: -3073886409707791015
+    second: PC Computer - Claw - Captain Claw_202
+  - first:
+      213: -2135222917585351526
+    second: PC Computer - Claw - Captain Claw_203
+  - first:
+      213: 3478339480560519172
+    second: PC Computer - Claw - Captain Claw_204
+  - first:
+      213: -3186105073525155383
+    second: PC Computer - Claw - Captain Claw_205
+  - first:
+      213: -6231756739445854365
+    second: PC Computer - Claw - Captain Claw_206
+  - first:
+      213: 1277332643568775292
+    second: PC Computer - Claw - Captain Claw_207
+  - first:
+      213: -586445937941534633
+    second: PC Computer - Claw - Captain Claw_208
+  - first:
+      213: 8040125296608376566
+    second: PC Computer - Claw - Captain Claw_209
+  - first:
+      213: -2224812187693461296
+    second: PC Computer - Claw - Captain Claw_210
+  - first:
+      213: -1008800584301108616
+    second: PC Computer - Claw - Captain Claw_211
+  - first:
+      213: -8194120706074762999
+    second: PC Computer - Claw - Captain Claw_212
+  - first:
+      213: 4320192652934453585
+    second: PC Computer - Claw - Captain Claw_213
+  - first:
+      213: -1430444805424600983
+    second: PC Computer - Claw - Captain Claw_214
+  - first:
+      213: -4730337238529856731
+    second: PC Computer - Claw - Captain Claw_215
+  - first:
+      213: -8869729655853223884
+    second: PC Computer - Claw - Captain Claw_216
+  - first:
+      213: 6763409901404357498
+    second: PC Computer - Claw - Captain Claw_217
+  - first:
+      213: 7881797047347926525
+    second: PC Computer - Claw - Captain Claw_218
+  - first:
+      213: -3117873743030342259
+    second: PC Computer - Claw - Captain Claw_219
+  - first:
+      213: -1678153452724870002
+    second: PC Computer - Claw - Captain Claw_220
+  - first:
+      213: 6201057788972958306
+    second: PC Computer - Claw - Captain Claw_221
+  - first:
+      213: -9161809337071235953
+    second: PC Computer - Claw - Captain Claw_222
+  - first:
+      213: -6857354945044324772
+    second: PC Computer - Claw - Captain Claw_223
+  - first:
+      213: 5918194378014024311
+    second: PC Computer - Claw - Captain Claw_224
+  - first:
+      213: 2010546087047311262
+    second: PC Computer - Claw - Captain Claw_225
+  - first:
+      213: 5348179558840849211
+    second: PC Computer - Claw - Captain Claw_226
+  - first:
+      213: 18239629274776573
+    second: PC Computer - Claw - Captain Claw_227
+  - first:
+      213: -525634419411708508
+    second: PC Computer - Claw - Captain Claw_228
+  - first:
+      213: 3806960347359901778
+    second: PC Computer - Claw - Captain Claw_229
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2597
+        width: 86
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd294ac7e8cb310e0800000000000000
+      internalID: -2300287664493653284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2597
+        width: 97
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd1ddebb018850a0800000000000000
+      internalID: -6892617342243758631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 2597
+        width: 95
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd871a9fc1b5b5f20800000000000000
+      internalID: 3412421322668603613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 2595
+        width: 107
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f31974747730b0800000000000000
+      internalID: -5748998355718769544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2597
+        width: 99
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a385f89bb484ef6a0800000000000000
+      internalID: -6413609329256081350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2597
+        width: 86
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146a6ce84bfbe3440800000000000000
+      internalID: 4917578625345562177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_6
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2595
+        width: 91
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2924c918f85e44670800000000000000
+      internalID: 8522188799409406610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_7
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2597
+        width: 95
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4390b6d119a8e8ea0800000000000000
+      internalID: -5868600908548732620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_8
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2597
+        width: 108
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc44345261603bf0800000000000000
+      internalID: -346670096360125246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_9
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 2597
+        width: 98
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b8d2f902a9af560800000000000000
+      internalID: 7348355206908578601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2474
+        width: 68
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fbc790bca9c7630800000000000000
+      internalID: 3926183171988438917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2474
+        width: 70
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69502c441a51d1420800000000000000
+      internalID: 2602259942077498774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2474
+        width: 70
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bf40b9f3a3c8000800000000000000
+      internalID: 39470541597637390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_13
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2474
+        width: 70
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b8a666e82a0a130800000000000000
+      internalID: 3576036836619488087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2474
+        width: 73
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5264b78cdd0bd5790800000000000000
+      internalID: -7539675734550559195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2474
+        width: 75
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f1dc8c975d695c0800000000000000
+      internalID: -4208942082694504633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_16
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2474
+        width: 77
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ffb9e7c705cbb0800000000000000
+      internalID: -4916514863003471512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2474
+        width: 74
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7925bf135317a22f0800000000000000
+      internalID: -996859894223383913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_18
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 2578
+        width: 49
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bee2733ee5437b0800000000000000
+      internalID: -5245463336003376246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_19
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2487
+        width: 22
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d472a780ca03ba0800000000000000
+      internalID: -6111195541932651238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2353
+        width: 68
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da6a7b243efd8d0800000000000000
+      internalID: -2819284966022140672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2355
+        width: 75
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec76669f99e1c050800000000000000
+      internalID: 5819189065171762409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 2355
+        width: 104
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed56cf4d4fa84aa0800000000000000
+      internalID: -6176494142352892447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_23
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2355
+        width: 162
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d479db1877d51d640800000000000000
+      internalID: 5102962620646659917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_24
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2369
+        width: 79
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f3b6fc5297c2e60800000000000000
+      internalID: 7938853446448004931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2221
+        width: 66
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3df1728f5377d010800000000000000
+      internalID: 1213565478647233854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_26
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2221
+        width: 75
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddd57facbf4d4210800000000000000
+      internalID: 1318797937705606619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_27
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2221
+        width: 106
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8981624a5a390aec0800000000000000
+      internalID: -3557681365989844840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2221
+        width: 124
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e431a95d738dda80800000000000000
+      internalID: -8440445552224553751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_29
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2221
+        width: 83
+        height: 127
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501aa47674b436fc0800000000000000
+      internalID: -3502873315116408571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_30
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2221
+        width: 77
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6780b31014e98fef0800000000000000
+      internalID: -74135391820904330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_31
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2232
+        width: 75
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d1ae1d826e79a70800000000000000
+      internalID: 8833782257105378606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1974
+        width: 85
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1de4b814d4c1860800000000000000
+      internalID: 7501956023197815263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2098
+        width: 70
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a209c8556c74770800000000000000
+      internalID: 8595056484592659028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_34
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1975
+        width: 57
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db59d4604665ee20800000000000000
+      internalID: 3379219522167331794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_35
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2098
+        width: 70
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7ec507569b6b6a0800000000000000
+      internalID: -6433751172324202550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_36
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1975
+        width: 64
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e295e47bcdeaa8c40800000000000000
+      internalID: 5515412956659996974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2098
+        width: 101
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c001e6873feeff0800000000000000
+      internalID: -4798851012621171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1975
+        width: 89
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029ab680f2d09da10800000000000000
+      internalID: 1934592010588236064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_39
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2098
+        width: 81
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61ca282d67d76d70800000000000000
+      internalID: 9036428041167487339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_40
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1975
+        width: 63
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172773e1273255930800000000000000
+      internalID: 4131247206222492273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_41
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2098
+        width: 91
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e95400f61fbe0420800000000000000
+      internalID: 2598224140276357605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_42
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1975
+        width: 70
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9cf02905db4d870800000000000000
+      internalID: 8706792133359552950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_43
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1975
+        width: 67
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47bcb44fcf2659fd0800000000000000
+      internalID: -2335851993151845516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_44
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2098
+        width: 95
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9585d6ea5bd8060800000000000000
+      internalID: 6957416760120728043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_45
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1975
+        width: 87
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d2c1c59997a5e80800000000000000
+      internalID: -8189099272837517931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_46
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2098
+        width: 102
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb81b18b62e21d470800000000000000
+      internalID: 8417559922364586174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_47
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2098
+        width: 77
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2912c0ec86639e0800000000000000
+      internalID: -1642009779953888591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_48
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 2106
+        width: 34
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ff9b6fe46c87ab0800000000000000
+      internalID: -5010036543000543436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_49
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2004
+        width: 235
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e881922b334fc03c0800000000000000
+      internalID: -4391867033723529074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_50
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1990
+        width: 25
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44dfbaf7d15e71320800000000000000
+      internalID: 2528741630650613060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_51
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1989
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c825c58d3d58aca0800000000000000
+      internalID: -6005447584279877431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_52
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1990
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d299ee729877b4770800000000000000
+      internalID: 8596095744730896685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_53
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1990
+        width: 37
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867b8a5c591d9fd0800000000000000
+      internalID: -2333681147461273971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_54
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1872
+        width: 84
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd42772db69411440800000000000000
+      internalID: 4904782196624532703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_55
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1872
+        width: 87
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbd9e9449fc9f770800000000000000
+      internalID: 8645169195516550064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_56
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1872
+        width: 83
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e592075764dd1700800000000000000
+      internalID: 512799472896611816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_57
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1872
+        width: 97
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b488042479937e40800000000000000
+      internalID: 5653030681379898545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_58
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1872
+        width: 148
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816069a51bc001da0800000000000000
+      internalID: -5976262749652122088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_59
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1883
+        width: 58
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4488c40513fc6b510800000000000000
+      internalID: 1564665731265366084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_60
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1884
+        width: 37
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b1d2251a72ef050800000000000000
+      internalID: 5836145740940647298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_61
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1884
+        width: 41
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c9d7f055c24370800000000000000
+      internalID: 8305417614370914971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1748
+        width: 74
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c9ddc585f915f30800000000000000
+      internalID: 4562603099366988826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_63
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1748
+        width: 103
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d217c348b74c9a0800000000000000
+      internalID: -6213705777984492171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_64
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1748
+        width: 130
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddaf31bbdc4f22aa0800000000000000
+      internalID: -6187113773609518371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_65
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1748
+        width: 148
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e7fa2e4e3ba2080800000000000000
+      internalID: -9211352292195860883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_66
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1748
+        width: 116
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4dd3765df5c8f30800000000000000
+      internalID: 4579140291293729990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_67
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1748
+        width: 102
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68a3fbcb1e3a7500800000000000000
+      internalID: 394696206455122031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_68
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1764
+        width: 58
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95aba918993ded880800000000000000
+      internalID: -8584191183463728551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_69
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1765
+        width: 33
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9b6495029e70200800000000000000
+      internalID: 146341838058863008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_70
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1765
+        width: 41
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cffb51527ee03340800000000000000
+      internalID: 4841631774181949376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1669
+        width: 87
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f91e84ecc7d9250800000000000000
+      internalID: 5953051507881516883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_72
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1669
+        width: 116
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de657347b5f71810800000000000000
+      internalID: 1736126348834205397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_73
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1669
+        width: 89
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84e756aa8309170800000000000000
+      internalID: 8183102827430562041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_74
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1669
+        width: 117
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fbde9d82ba7b030800000000000000
+      internalID: 3510462626501869413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_75
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1681
+        width: 58
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1669de2f8702948e0800000000000000
+      internalID: -1708798879766571423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_76
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1681
+        width: 35
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899650f469a51b610800000000000000
+      internalID: 1635187741329549720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_77
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1682
+        width: 40
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b6071058bb715f0800000000000000
+      internalID: -785953430023672935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_78
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1681
+        width: 104
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b8ef50d1b8c6610800000000000000
+      internalID: 1615819323090045718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1563
+        width: 125
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc7b0e2286178060800000000000000
+      internalID: 6955552897871084741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_80
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1563
+        width: 117
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53b99af251c04250800000000000000
+      internalID: 5926949671755428700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_81
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1563
+        width: 103
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf9f49d0bcbe8900800000000000000
+      internalID: 688695260780404650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_82
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1563
+        width: 109
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940968cf43cf80e60800000000000000
+      internalID: 7928864448490934345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_83
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1563
+        width: 106
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efeb3a5b584365c0800000000000000
+      internalID: -4223452468350292000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_84
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1563
+        width: 113
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b202462319b6bb1a0800000000000000
+      internalID: -6792717341598408661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_85
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 1563
+        width: 98
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0263a6e2cf03dd0800000000000000
+      internalID: -2508227716164738870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_86
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1563
+        width: 124
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba95e74d75ee11600800000000000000
+      internalID: 437392699826264491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_87
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1580
+        width: 138
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af87ecdf7823fffe0800000000000000
+      internalID: -1153147419923416838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1439
+        width: 67
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a932d410e3dfeee0800000000000000
+      internalID: -1229531213873399384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_89
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1439
+        width: 69
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161f6b5e742d2f670800000000000000
+      internalID: 8571144247077957985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_90
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1439
+        width: 68
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f143ee74d282130800000000000000
+      internalID: 3542130893889216284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_91
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1439
+        width: 73
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3ceb70969ae5f90800000000000000
+      internalID: -6962941705301605437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_92
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1439
+        width: 72
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b42a20a0ea719ab0800000000000000
+      internalID: -5003082605853530954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_93
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1452
+        width: 26
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2414970966677bbd0800000000000000
+      internalID: -2614490875782676158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_94
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1452
+        width: 35
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88e6b320f29ebb30800000000000000
+      internalID: 4305039853901768847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_95
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1316
+        width: 62
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4e48106f0a119a0800000000000000
+      internalID: -6264048628247763751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1316
+        width: 71
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc2611630a3b2060800000000000000
+      internalID: 6929696237827796179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_97
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1316
+        width: 66
+        height: 119
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06318ab2fdb2cb060800000000000000
+      internalID: 6970494560772821856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_98
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1316
+        width: 65
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15e7e970d78a7eb0800000000000000
+      internalID: -4721311929876355809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_99
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1316
+        width: 64
+        height: 120
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0183d417399b50190800000000000000
+      internalID: -7996781520414230512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_100
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1316
+        width: 94
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a40140e29817b40800000000000000
+      internalID: 5436277055942576676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_101
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1394
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da342f6b766964a0800000000000000
+      internalID: -6599631098603095340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_102
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1387
+        width: 82
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bfaf0b2328f3220800000000000000
+      internalID: 2467834275051535164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_103
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1387
+        width: 39
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e3f211f2bc3750800000000000000
+      internalID: 6286095928377206746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_104
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 1387
+        width: 34
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adef61c01e83faf50800000000000000
+      internalID: 6894792093749149402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_105
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1394
+        width: 59
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b53716fbe1bf440800000000000000
+      internalID: 4970600421056011069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_106
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1394
+        width: 40
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5c1a22916bc0510800000000000000
+      internalID: 1516787393588479434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_107
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1357
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82513c4fbfd38b40800000000000000
+      internalID: 5441438787503739535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_108
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1352
+        width: 97
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb682af06c85d380800000000000000
+      internalID: -8947090736559920130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_109
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1357
+        width: 25
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33daad0e7ca25e40800000000000000
+      internalID: 5643762940443808575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_110
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1357
+        width: 49
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4a30a8602b826f0800000000000000
+      internalID: -709121200155810611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_111
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1357
+        width: 39
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9306de7002722b0800000000000000
+      internalID: -5609479592447297100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_112
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 1357
+        width: 9
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75ed053db54e3250800000000000000
+      internalID: 5926250838607390078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_113
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1357
+        width: 45
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b606d6fb9987326d0800000000000000
+      internalID: -3016434723671154581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_114
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1332
+        width: 39
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee633be10bf2cea0800000000000000
+      internalID: -5853840579968667930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_115
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1333
+        width: 32
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d817cd572c317020800000000000000
+      internalID: 2337715821356718292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_116
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1333
+        width: 42
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b337e2743c73fa0800000000000000
+      internalID: -5820969282863678608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_117
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1321
+        width: 44
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7def7d284de37f0800000000000000
+      internalID: -630833239350650960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_118
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1321
+        width: 23
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d06d10a356795f0800000000000000
+      internalID: -750019513120584306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_119
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1321
+        width: 54
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65df0faa001a1c7f0800000000000000
+      internalID: -594016651596202666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_120
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1321
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a56e25336f03da0800000000000000
+      internalID: -5966998805971314101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_121
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1321
+        width: 124
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0000e39e7810050800000000000000
+      internalID: 5765038433848262900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1209
+        width: 94
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11fda0030bace2f0800000000000000
+      internalID: -942190192642625251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_123
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1209
+        width: 86
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3acf92a7f8138f0800000000000000
+      internalID: -562510723591396425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_124
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1209
+        width: 75
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d602573f97cad80800000000000000
+      internalID: -8238075531818406624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_125
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1209
+        width: 80
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64954dbd965f52b0800000000000000
+      internalID: -5593656976685558678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1209
+        width: 98
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced12bdb90fedbfa0800000000000000
+      internalID: -5783203521357537812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_127
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1209
+        width: 93
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d4b802e70e2bb60800000000000000
+      internalID: 7760511940229287223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_128
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1209
+        width: 90
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8615490dc9c0220800000000000000
+      internalID: 2453508316665571507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_129
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1285
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277e4c90298cd5d90800000000000000
+      internalID: -7107304107366094990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_130
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1285
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cb1e796af6efda0800000000000000
+      internalID: -5909162899760104296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_131
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1285
+        width: 37
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bf851ba981fbbb0800000000000000
+      internalID: -4918185215385863390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_132
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1285
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf60e947b079caa0800000000000000
+      internalID: -6140252684422189109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_133
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 1279
+        width: 76
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4308b3a5b50e2ed0800000000000000
+      internalID: -2437004070666894517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_134
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1223
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c85ad57ab51ee640800000000000000
+      internalID: 5111046517697435843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_135
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1098
+        width: 90
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5ca3b526c0b8070800000000000000
+      internalID: 8109589170587616703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_136
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1098
+        width: 85
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f807684179cf18540800000000000000
+      internalID: 5008561986427318415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_137
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1098
+        width: 90
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da978c8797c23b90800000000000000
+      internalID: -7263523795283502379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_138
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1098
+        width: 86
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e63d4684962b90800000000000000
+      internalID: -7266957644173744283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_139
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1098
+        width: 85
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51091914e6a6b070800000000000000
+      internalID: 8121862476613091679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_140
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1123
+        width: 136
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c31fbc44c975b80800000000000000
+      internalID: -8406078360170447743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_141
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1124
+        width: 12
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb79cf9caded173d0800000000000000
+      internalID: -3210540028065441858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_142
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1124
+        width: 33
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b043ef566a99b0c0800000000000000
+      internalID: -4559443383249846091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_143
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1124
+        width: 14
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8506d0c3133ade10800000000000000
+      internalID: 2223145525993407883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_144
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1123
+        width: 47
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189eeec08b4eb490800000000000000
+      internalID: -7728656893921552364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_145
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 984
+        width: 79
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db61478a55f2ee0800000000000000
+      internalID: -1283713186786787941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_146
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 984
+        width: 94
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bef61052a91cf90800000000000000
+      internalID: -6935092467445273713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_147
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 984
+        width: 151
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f9a9083b3575e0800000000000000
+      internalID: -1912557354882567911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_148
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1016
+        width: 40
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643170f19f4175110800000000000000
+      internalID: 1249490481818571590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_149
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1016
+        width: 37
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d82e2878ead36d00800000000000000
+      internalID: 964855437170976984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_150
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1016
+        width: 41
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570a58ea7342b7c0800000000000000
+      internalID: -4057106119144110250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_151
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 844
+        width: 104
+        height: 116
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159dbf16f885c9d90800000000000000
+      internalID: -7089694340540540591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_152
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 844
+        width: 126
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9021daea8e6c3f0800000000000000
+      internalID: -880760840178759261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_153
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 844
+        width: 144
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f27f08700a994b0800000000000000
+      internalID: -5433135521356894356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_154
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 844
+        width: 86
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bdcd501be429130800000000000000
+      internalID: 3572003976672762709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_155
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 873
+        width: 116
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67afadd2c99b9e460800000000000000
+      internalID: 7271547153801738870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 730
+        width: 101
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215f3f5d8259fe220800000000000000
+      internalID: 2517394719344162066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_157
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 730
+        width: 81
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c464f41e2735dbc30800000000000000
+      internalID: 4376746165745436236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_158
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 730
+        width: 86
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ba741ee1cc2070800000000000000
+      internalID: 8083048659513160042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_159
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 730
+        width: 113
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61aabfcc1f9b2260800000000000000
+      internalID: 7073922585808511343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_160
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 730
+        width: 79
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03160e7fb3e2199d0800000000000000
+      internalID: -2769381460759518928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_161
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 730
+        width: 86
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99939bd631722130800000000000000
+      internalID: 3540516737492687260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_162
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 730
+        width: 112
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b65f22ddf8ac470800000000000000
+      internalID: 8415697033632246547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_163
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 753
+        width: 136
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672afa5e01b187100800000000000000
+      internalID: 105864350630126198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_164
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 753
+        width: 47
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d7836c3917f1da0800000000000000
+      internalID: -5971929701370266224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_165
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 754
+        width: 28
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c7d19ad968beda0800000000000000
+      internalID: -5914485673915745147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_166
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 592
+        width: 70
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee79fb416c910440800000000000000
+      internalID: 4900369811256213221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_167
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 592
+        width: 66
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72b9c69c46876a80800000000000000
+      internalID: -8473656510368861573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_168
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 592
+        width: 67
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ebd7d08cc46d5f0800000000000000
+      internalID: -732313467297612135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_169
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 592
+        width: 72
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd8921388dc95a70800000000000000
+      internalID: 8816303730378509816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_170
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 592
+        width: 71
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac76820382388e330800000000000000
+      internalID: 3740383699161081802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_171
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 592
+        width: 75
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7033c120c30978270800000000000000
+      internalID: 8252723429587563271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_172
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 592
+        width: 71
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783a2437b14f26100800000000000000
+      internalID: 99910540490613639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_173
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 592
+        width: 66
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56044b68520d14d0800000000000000
+      internalID: -3162368784564222372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_174
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 592
+        width: 66
+        height: 136
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866ede658afb4bee0800000000000000
+      internalID: -1246160467140942232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_175
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 592
+        width: 71
+        height: 132
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad66c56d3e745ed0800000000000000
+      internalID: -2426175497080246876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_176
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 592
+        width: 72
+        height: 133
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413a14a8045b227b0800000000000000
+      internalID: -5250434926758485228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_177
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 592
+        width: 76
+        height: 122
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90deb72ab6720210800000000000000
+      internalID: 1297730184538935451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_178
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 629
+        width: 50
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac2c4e367cdfe090800000000000000
+      internalID: -8002935612404650848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_179
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 74
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d3ca7152392ee40800000000000000
+      internalID: 5684267467215224125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_180
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 473
+        width: 61
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8339aff37f9d93600800000000000000
+      internalID: 448629293853610808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_181
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 473
+        width: 60
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822a2f8f7080f2890800000000000000
+      internalID: -7480751625704660440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_182
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 473
+        width: 59
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2b7c205dc5d5c90800000000000000
+      internalID: -7179480161014271325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_183
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 473
+        width: 58
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1e2c0de957c7ac0800000000000000
+      internalID: -3856077855968271890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_184
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 473
+        width: 60
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c382ed2520cb03d20800000000000000
+      internalID: 3256309248755116092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_185
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 504
+        width: 23
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e08f737a451f970800000000000000
+      internalID: 8786897425151823440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_186
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 503
+        width: 17
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e8c5302c1c565b0800000000000000
+      internalID: -5375677541172605404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_187
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 473
+        width: 65
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ac77d620b18ddf0800000000000000
+      internalID: -155344489903830427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_188
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 473
+        width: 64
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08d8afbdaef0fa50800000000000000
+      internalID: 6553017480022382603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_189
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 473
+        width: 62
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865d6abb93697ef20800000000000000
+      internalID: 3451892814108349800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_190
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 508
+        width: 102
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0f9d95c27d7b0f0800000000000000
+      internalID: -1101174998382808889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_191
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 112
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b0fd98226acca60800000000000000
+      internalID: 7695708530541529914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_192
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 356
+        width: 112
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d8767437a9c180800000000000000
+      internalID: -9094554128730237178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_193
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 355
+        width: 112
+        height: 107
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48033c337b4cc3330800000000000000
+      internalID: 3692042085663453316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_194
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 356
+        width: 114
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73405d08c11c07210800000000000000
+      internalID: 1328774218238985271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_195
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 356
+        width: 92
+        height: 106
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e94524b5a6a68810800000000000000
+      internalID: 1767283134411655657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_196
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 356
+        width: 86
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ff5f42281a15a00800000000000000
+      internalID: 743552993830764330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_197
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 356
+        width: 86
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c793bb3f7a0f97160800000000000000
+      internalID: 7023909698000337276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_198
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 397
+        width: 30
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c58f5c5845d380800000000000000
+      internalID: -8947165523124829191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_199
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 397
+        width: 35
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cff6c97e4386cb0800000000000000
+      internalID: -4870584827634516841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_200
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 237
+        width: 81
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e4ac18f910f7f20800000000000000
+      internalID: 3422456026413813320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_201
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 237
+        width: 84
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1d44ddff878b380800000000000000
+      internalID: -8955274818701962797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_202
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 237
+        width: 68
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d5775b89c5755d0800000000000000
+      internalID: -3073886409707791015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_203
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 237
+        width: 69
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c4d01c11a2e52e0800000000000000
+      internalID: -2135222917585351526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_204
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 237
+        width: 75
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c60b145b854030800000000000000
+      internalID: 3478339480560519172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_205
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 237
+        width: 71
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9967bf05ea8c3d0800000000000000
+      internalID: -3186105073525155383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_206
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 237
+        width: 86
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36feea2434a5489a0800000000000000
+      internalID: -6231756739445854365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_207
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 237
+        width: 94
+        height: 111
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c707def854ff9b110800000000000000
+      internalID: 1277332643568775292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_208
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 237
+        width: 132
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758260dc6868cd7f0800000000000000
+      internalID: -586445937941534633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_209
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 277
+        width: 56
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f679fddb53449f60800000000000000
+      internalID: 8040125296608376566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_210
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 280
+        width: 37
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d052945a11ef11e0800000000000000
+      internalID: -2224812187693461296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_211
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 116
+        width: 86
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872a683a6350002f0800000000000000
+      internalID: -1008800584301108616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_212
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 61
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901adb3d1a2a84e80800000000000000
+      internalID: -8194120706074762999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_213
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 138
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1591967145864fb30800000000000000
+      internalID: 4320192652934453585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_214
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 138
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9682ddd370a062ce0800000000000000
+      internalID: -1430444805424600983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_215
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 138
+        width: 59
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b20ad08577a5eb0800000000000000
+      internalID: -4730337238529856731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_216
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 138
+        width: 59
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430fe113fd368e480800000000000000
+      internalID: -8869729655853223884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_217
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 162
+        width: 64
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a730193a8757cdd50800000000000000
+      internalID: 6763409901404357498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_218
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 163
+        width: 42
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df555eea7a4c16d60800000000000000
+      internalID: 7881797047347926525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_219
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 79
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8da82499561bb4d0800000000000000
+      internalID: -3117873743030342259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_220
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 63
+        height: 114
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e842db3735006b8e0800000000000000
+      internalID: -1678153452724870002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_221
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 100
+        width: 26
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262076754359e0650800000000000000
+      internalID: 6201057788972958306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_222
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 97
+        height: 126
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c030403f6bad080800000000000000
+      internalID: -9161809337071235953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_223
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 88
+        width: 47
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e5dd16208c5d0a0800000000000000
+      internalID: -6857354945044324772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_224
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2
+        width: 78
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7726d3d4e66a12250800000000000000
+      internalID: 5918194378014024311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_225
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 0
+        width: 54
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa10b8305e6eb10800000000000000
+      internalID: 2010546087047311262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_226
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 46
+        width: 37
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d6bf09fc883a40800000000000000
+      internalID: 5348179558840849211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_227
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 2
+        width: 116
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df302cf98dcc04000800000000000000
+      internalID: 18239629274776573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_228
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3
+        width: 101
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a51f3dc74294b8f0800000000000000
+      internalID: -525634419411708508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Captain Claw_229
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 0
+        width: 77
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258726a044a05d430800000000000000
+      internalID: 3806960347359901778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

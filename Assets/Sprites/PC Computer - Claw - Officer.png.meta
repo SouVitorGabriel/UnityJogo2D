@@ -1,0 +1,1592 @@
+fileFormatVersion: 2
+guid: 10cefafcd7e01e84fa3a0c0de4519e77
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 412859382800404942
+    second: PC Computer - Claw - Officer_0
+  - first:
+      213: 1115821732224972847
+    second: PC Computer - Claw - Officer_1
+  - first:
+      213: -4866654026673304116
+    second: PC Computer - Claw - Officer_2
+  - first:
+      213: -4150935320344588633
+    second: PC Computer - Claw - Officer_3
+  - first:
+      213: 1586472210978392651
+    second: PC Computer - Claw - Officer_4
+  - first:
+      213: 1459298016742703125
+    second: PC Computer - Claw - Officer_5
+  - first:
+      213: -3186948160233012343
+    second: PC Computer - Claw - Officer_6
+  - first:
+      213: -2385460606158285578
+    second: PC Computer - Claw - Officer_7
+  - first:
+      213: -1435081353892616365
+    second: PC Computer - Claw - Officer_8
+  - first:
+      213: -8962614040379740048
+    second: PC Computer - Claw - Officer_9
+  - first:
+      213: -2815774960092113228
+    second: PC Computer - Claw - Officer_10
+  - first:
+      213: 2106002892650120544
+    second: PC Computer - Claw - Officer_11
+  - first:
+      213: 7720585422861287505
+    second: PC Computer - Claw - Officer_12
+  - first:
+      213: -4820040851436288414
+    second: PC Computer - Claw - Officer_13
+  - first:
+      213: 966219826379736114
+    second: PC Computer - Claw - Officer_14
+  - first:
+      213: -3461282100949702008
+    second: PC Computer - Claw - Officer_15
+  - first:
+      213: -6451715605350505733
+    second: PC Computer - Claw - Officer_16
+  - first:
+      213: 799595497733706222
+    second: PC Computer - Claw - Officer_17
+  - first:
+      213: 8565131073179963146
+    second: PC Computer - Claw - Officer_18
+  - first:
+      213: -7606920744209009241
+    second: PC Computer - Claw - Officer_19
+  - first:
+      213: -5412205622160904165
+    second: PC Computer - Claw - Officer_20
+  - first:
+      213: 5907451713113625921
+    second: PC Computer - Claw - Officer_21
+  - first:
+      213: 5892411429325142393
+    second: PC Computer - Claw - Officer_22
+  - first:
+      213: 3443376534899846943
+    second: PC Computer - Claw - Officer_23
+  - first:
+      213: -4799486314230308697
+    second: PC Computer - Claw - Officer_24
+  - first:
+      213: 6250268054007667388
+    second: PC Computer - Claw - Officer_25
+  - first:
+      213: 1850569271667850761
+    second: PC Computer - Claw - Officer_26
+  - first:
+      213: -7356927316484583666
+    second: PC Computer - Claw - Officer_27
+  - first:
+      213: -8481577653502373802
+    second: PC Computer - Claw - Officer_28
+  - first:
+      213: 7533154795769952272
+    second: PC Computer - Claw - Officer_29
+  - first:
+      213: -8779268722230920117
+    second: PC Computer - Claw - Officer_30
+  - first:
+      213: -7171198082234615470
+    second: PC Computer - Claw - Officer_31
+  - first:
+      213: 1333662273985328093
+    second: PC Computer - Claw - Officer_32
+  - first:
+      213: 3995171546555538959
+    second: PC Computer - Claw - Officer_33
+  - first:
+      213: -6158061175356974992
+    second: PC Computer - Claw - Officer_34
+  - first:
+      213: 4671046271505655663
+    second: PC Computer - Claw - Officer_35
+  - first:
+      213: 910770491645677851
+    second: PC Computer - Claw - Officer_36
+  - first:
+      213: 5036819453145391176
+    second: PC Computer - Claw - Officer_37
+  - first:
+      213: -4506013127515077262
+    second: PC Computer - Claw - Officer_38
+  - first:
+      213: -2646391802651940007
+    second: PC Computer - Claw - Officer_39
+  - first:
+      213: -3845280451726926997
+    second: PC Computer - Claw - Officer_40
+  - first:
+      213: -7673542795965907756
+    second: PC Computer - Claw - Officer_41
+  - first:
+      213: -3471894615984171486
+    second: PC Computer - Claw - Officer_42
+  - first:
+      213: 7989924611812136834
+    second: PC Computer - Claw - Officer_43
+  - first:
+      213: 6995673940773938781
+    second: PC Computer - Claw - Officer_44
+  - first:
+      213: -200800779838712817
+    second: PC Computer - Claw - Officer_45
+  - first:
+      213: 941244978804591516
+    second: PC Computer - Claw - Officer_46
+  - first:
+      213: -4273679202878507187
+    second: PC Computer - Claw - Officer_47
+  - first:
+      213: 6422900560564540791
+    second: PC Computer - Claw - Officer_48
+  - first:
+      213: -1619979876239931139
+    second: PC Computer - Claw - Officer_49
+  - first:
+      213: 759845408799269394
+    second: PC Computer - Claw - Officer_50
+  - first:
+      213: -207464712810098793
+    second: PC Computer - Claw - Officer_51
+  - first:
+      213: 8495137186778039608
+    second: PC Computer - Claw - Officer_52
+  - first:
+      213: -2297496126937541510
+    second: PC Computer - Claw - Officer_53
+  - first:
+      213: -5609537562655076987
+    second: PC Computer - Claw - Officer_54
+  - first:
+      213: 3000982240131541300
+    second: PC Computer - Claw - Officer_55
+  - first:
+      213: 1332156526118607143
+    second: PC Computer - Claw - Officer_56
+  - first:
+      213: -4443539280720191452
+    second: PC Computer - Claw - Officer_57
+  - first:
+      213: 6150069016391667172
+    second: PC Computer - Claw - Officer_58
+  - first:
+      213: 687746254877474107
+    second: PC Computer - Claw - Officer_59
+  - first:
+      213: -6834254766460420745
+    second: PC Computer - Claw - Officer_60
+  - first:
+      213: -1228367988516456246
+    second: PC Computer - Claw - Officer_61
+  - first:
+      213: -8741568263419743768
+    second: PC Computer - Claw - Officer_62
+  - first:
+      213: 6426303084491988214
+    second: PC Computer - Claw - Officer_63
+  - first:
+      213: 3767463849079350604
+    second: PC Computer - Claw - Officer_64
+  - first:
+      213: 8804901321856204749
+    second: PC Computer - Claw - Officer_65
+  - first:
+      213: 4946829978364705876
+    second: PC Computer - Claw - Officer_66
+  - first:
+      213: -2248578955726132700
+    second: PC Computer - Claw - Officer_67
+  - first:
+      213: 3913512543361164711
+    second: PC Computer - Claw - Officer_68
+  - first:
+      213: 2267890448330017207
+    second: PC Computer - Claw - Officer_69
+  - first:
+      213: 1360238706155588771
+    second: PC Computer - Claw - Officer_70
+  - first:
+      213: 2348674280478231755
+    second: PC Computer - Claw - Officer_71
+  - first:
+      213: 6362378959416126353
+    second: PC Computer - Claw - Officer_72
+  - first:
+      213: 7321178541756305471
+    second: PC Computer - Claw - Officer_73
+  - first:
+      213: -1332266159689478511
+    second: PC Computer - Claw - Officer_74
+  - first:
+      213: 2281657702449869432
+    second: PC Computer - Claw - Officer_75
+  - first:
+      213: 2599073871398923287
+    second: PC Computer - Claw - Officer_76
+  - first:
+      213: -378851599884478935
+    second: PC Computer - Claw - Officer_77
+  - first:
+      213: -1230214094261126995
+    second: PC Computer - Claw - Officer_78
+  - first:
+      213: 7572181116160491025
+    second: PC Computer - Claw - Officer_79
+  - first:
+      213: -4447586912898184508
+    second: PC Computer - Claw - Officer_80
+  - first:
+      213: 6907529341220360490
+    second: PC Computer - Claw - Officer_81
+  - first:
+      213: -3917523179704242583
+    second: PC Computer - Claw - Officer_82
+  - first:
+      213: 8953626237432900389
+    second: PC Computer - Claw - Officer_83
+  - first:
+      213: -3950530739300207544
+    second: PC Computer - Claw - Officer_84
+  - first:
+      213: -5308619199852564735
+    second: PC Computer - Claw - Officer_85
+  - first:
+      213: 5793513828546760138
+    second: PC Computer - Claw - Officer_86
+  - first:
+      213: -6886868172215087402
+    second: PC Computer - Claw - Officer_87
+  - first:
+      213: 8354460129668758346
+    second: PC Computer - Claw - Officer_88
+  - first:
+      213: 3398451020656787517
+    second: PC Computer - Claw - Officer_89
+  - first:
+      213: 3791742844263019638
+    second: PC Computer - Claw - Officer_90
+  - first:
+      213: -5962803186966734473
+    second: PC Computer - Claw - Officer_91
+  - first:
+      213: 317997294644799907
+    second: PC Computer - Claw - Officer_92
+  - first:
+      213: -1356937349077723316
+    second: PC Computer - Claw - Officer_93
+  - first:
+      213: -3007314026037977910
+    second: PC Computer - Claw - Officer_94
+  - first:
+      213: -9081122752497318067
+    second: PC Computer - Claw - Officer_95
+  - first:
+      213: 2557294611646039703
+    second: PC Computer - Claw - Officer_96
+  - first:
+      213: 377758438170042728
+    second: PC Computer - Claw - Officer_97
+  - first:
+      213: 1140322540933828496
+    second: PC Computer - Claw - Officer_98
+  - first:
+      213: 761913884112226213
+    second: PC Computer - Claw - Officer_99
+  - first:
+      213: 6204263341970361812
+    second: PC Computer - Claw - Officer_100
+  - first:
+      213: 3944203470937291421
+    second: PC Computer - Claw - Officer_101
+  - first:
+      213: 6417415719546311747
+    second: PC Computer - Claw - Officer_102
+  - first:
+      213: -4754489290520665238
+    second: PC Computer - Claw - Officer_103
+  - first:
+      213: -7682980428602401559
+    second: PC Computer - Claw - Officer_104
+  - first:
+      213: -7702629702313230932
+    second: PC Computer - Claw - Officer_105
+  - first:
+      213: -3863980051658723484
+    second: PC Computer - Claw - Officer_106
+  - first:
+      213: -8726375058746395573
+    second: PC Computer - Claw - Officer_107
+  - first:
+      213: 8895618543851044170
+    second: PC Computer - Claw - Officer_108
+  - first:
+      213: 7040210082155131110
+    second: PC Computer - Claw - Officer_109
+  - first:
+      213: 1858233121407232006
+    second: PC Computer - Claw - Officer_110
+  - first:
+      213: 222666622865126184
+    second: PC Computer - Claw - Officer_111
+  - first:
+      213: 3951355739666838048
+    second: PC Computer - Claw - Officer_112
+  - first:
+      213: 694210304302993176
+    second: PC Computer - Claw - Officer_113
+  - first:
+      213: 2716030828654050155
+    second: PC Computer - Claw - Officer_114
+  - first:
+      213: 9045392123690114363
+    second: PC Computer - Claw - Officer_115
+  - first:
+      213: -3520587811286069471
+    second: PC Computer - Claw - Officer_116
+  - first:
+      213: 4160009858032331248
+    second: PC Computer - Claw - Officer_117
+  - first:
+      213: -6238438186397494355
+    second: PC Computer - Claw - Officer_118
+  - first:
+      213: 8760523712726426138
+    second: PC Computer - Claw - Officer_119
+  - first:
+      213: -3897493220565693605
+    second: PC Computer - Claw - Officer_120
+  - first:
+      213: 438908547160540951
+    second: PC Computer - Claw - Officer_121
+  - first:
+      213: 1734303405333609177
+    second: PC Computer - Claw - Officer_122
+  - first:
+      213: 3821081072207622166
+    second: PC Computer - Claw - Officer_123
+  - first:
+      213: -6309598076170321943
+    second: PC Computer - Claw - Officer_124
+  - first:
+      213: 8050936756166797240
+    second: PC Computer - Claw - Officer_125
+  - first:
+      213: 3462424882478053922
+    second: PC Computer - Claw - Officer_126
+  - first:
+      213: -2011510637093933864
+    second: PC Computer - Claw - Officer_127
+  - first:
+      213: 6727357637853595643
+    second: PC Computer - Claw - Officer_128
+  - first:
+      213: -4756219256438914869
+    second: PC Computer - Claw - Officer_129
+  - first:
+      213: 4811196590626103984
+    second: PC Computer - Claw - Officer_130
+  - first:
+      213: -3423443209995627936
+    second: PC Computer - Claw - Officer_131
+  - first:
+      213: -7403513259001672172
+    second: PC Computer - Claw - Officer_132
+  - first:
+      213: -8906778213694500718
+    second: PC Computer - Claw - Officer_133
+  - first:
+      213: -3567770854238744978
+    second: PC Computer - Claw - Officer_134
+  - first:
+      213: 3532944855986201139
+    second: PC Computer - Claw - Officer_135
+  - first:
+      213: -4098662713445739246
+    second: PC Computer - Claw - Officer_136
+  - first:
+      213: -7598597322276255741
+    second: PC Computer - Claw - Officer_137
+  - first:
+      213: 7269904923666981325
+    second: PC Computer - Claw - Officer_138
+  - first:
+      213: -8580949168815188267
+    second: PC Computer - Claw - Officer_139
+  - first:
+      213: -9075732397996594475
+    second: PC Computer - Claw - Officer_140
+  - first:
+      213: -7204628495437031161
+    second: PC Computer - Claw - Officer_141
+  - first:
+      213: 2956680674248769869
+    second: PC Computer - Claw - Officer_142
+  - first:
+      213: 75579225957530030
+    second: PC Computer - Claw - Officer_143
+  - first:
+      213: -5626850813288973799
+    second: PC Computer - Claw - Officer_144
+  - first:
+      213: 87698444233721370
+    second: PC Computer - Claw - Officer_145
+  - first:
+      213: 5457853520918505655
+    second: PC Computer - Claw - Officer_146
+  - first:
+      213: -1192352051937330306
+    second: PC Computer - Claw - Officer_147
+  - first:
+      213: -8223132381875288900
+    second: PC Computer - Claw - Officer_148
+  - first:
+      213: 2228548849122920582
+    second: PC Computer - Claw - Officer_149
+  - first:
+      213: 6679268419722657233
+    second: PC Computer - Claw - Officer_150
+  - first:
+      213: 7025296122538686516
+    second: PC Computer - Claw - Officer_151
+  - first:
+      213: 7704548577247584052
+    second: PC Computer - Claw - Officer_152
+  - first:
+      213: 5890922900810780581
+    second: PC Computer - Claw - Officer_153
+  - first:
+      213: -5722923836929035181
+    second: PC Computer - Claw - Officer_154
+  - first:
+      213: 1096375864545927618
+    second: PC Computer - Claw - Officer_155
+  - first:
+      213: 4456793252310298946
+    second: PC Computer - Claw - Officer_156
+  - first:
+      213: 8351333584296936029
+    second: PC Computer - Claw - Officer_157
+  - first:
+      213: -3971497035248087021
+    second: PC Computer - Claw - Officer_158
+  - first:
+      213: -4489999793844930643
+    second: PC Computer - Claw - Officer_159
+  - first:
+      213: -5564450092796022999
+    second: PC Computer - Claw - Officer_160
+  - first:
+      213: -3182529802474648156
+    second: PC Computer - Claw - Officer_161
+  - first:
+      213: -2403059046392814912
+    second: PC Computer - Claw - Officer_162
+  - first:
+      213: 307652918034013074
+    second: PC Computer - Claw - Officer_163
+  - first:
+      213: -5772012361353499645
+    second: PC Computer - Claw - Officer_164
+  - first:
+      213: 8548225488774156406
+    second: PC Computer - Claw - Officer_165
+  - first:
+      213: -3534361489928722422
+    second: PC Computer - Claw - Officer_166
+  - first:
+      213: 5270904609909835319
+    second: PC Computer - Claw - Officer_167
+  - first:
+      213: 1787712948469551089
+    second: PC Computer - Claw - Officer_168
+  - first:
+      213: 9002480837714659464
+    second: PC Computer - Claw - Officer_169
+  - first:
+      213: 7044364093532391214
+    second: PC Computer - Claw - Officer_170
+  - first:
+      213: 1411666931673829240
+    second: PC Computer - Claw - Officer_171
+  - first:
+      213: -7427693748598348445
+    second: PC Computer - Claw - Officer_172
+  - first:
+      213: 8999559567573406123
+    second: PC Computer - Claw - Officer_173
+  - first:
+      213: 3934571519397582989
+    second: PC Computer - Claw - Officer_174
+  - first:
+      213: 7738028077468058242
+    second: PC Computer - Claw - Officer_175
+  - first:
+      213: 7793999012346110852
+    second: PC Computer - Claw - Officer_176
+  - first:
+      213: -1139775233216894921
+    second: PC Computer - Claw - Officer_177
+  - first:
+      213: -6064241318317973886
+    second: PC Computer - Claw - Officer_178
+  - first:
+      213: 2492270230873146217
+    second: PC Computer - Claw - Officer_179
+  - first:
+      213: -8262705931142805477
+    second: PC Computer - Claw - Officer_180
+  - first:
+      213: -2013755927113189321
+    second: PC Computer - Claw - Officer_181
+  - first:
+      213: -212424702748499631
+    second: PC Computer - Claw - Officer_182
+  - first:
+      213: 4320196157403791421
+    second: PC Computer - Claw - Officer_183
+  - first:
+      213: 1361232112019462275
+    second: PC Computer - Claw - Officer_184
+  - first:
+      213: -2089974996990617445
+    second: PC Computer - Claw - Officer_185
+  - first:
+      213: 990075214176929660
+    second: PC Computer - Claw - Officer_186
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1046
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec15106db65cab500800000000000000
+      internalID: 412859382800404942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1046
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f283eed14f13c7f00800000000000000
+      internalID: 1115821732224972847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_2
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1045
+        width: 80
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdc96782fb267cb0800000000000000
+      internalID: -4866654026673304116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1046
+        width: 78
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae0d39915ae466c0800000000000000
+      internalID: -4150935320344588633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_4
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1046
+        width: 81
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a45650218440610800000000000000
+      internalID: 1586472210978392651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_5
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1046
+        width: 79
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510816580d7704410800000000000000
+      internalID: 1459298016742703125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_6
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1046
+        width: 84
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830abf888fa5c3d0800000000000000
+      internalID: -3186948160233012343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1046
+        width: 90
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f45f38a73425eed0800000000000000
+      internalID: -2385460606158285578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_8
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 1046
+        width: 73
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357a17dac11951ce0800000000000000
+      internalID: -1435081353892616365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_9
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1046
+        width: 65
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070bc3824066e9380800000000000000
+      internalID: -8962614040379740048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1046
+        width: 74
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b61548a79b5ce8d0800000000000000
+      internalID: -2815774960092113228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 910
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf22d3fe6d6e676a0800000000000000
+      internalID: -6451715605350505733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 910
+        width: 61
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee15b666edbb81b00800000000000000
+      internalID: 799595497733706222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_18
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 910
+        width: 61
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f4d8fb4557dd670800000000000000
+      internalID: 8565131073179963146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_19
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 910
+        width: 61
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a53fd6e2e9ce6690800000000000000
+      internalID: -7606920744209009241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 910
+        width: 64
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b103ab769abf3e4b0800000000000000
+      internalID: -5412205622160904165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 779
+        width: 79
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fee96f6b459cf20800000000000000
+      internalID: 3443376534899846943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 779
+        width: 82
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a024ff30acc46db0800000000000000
+      internalID: -4799486314230308697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_25
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 779
+        width: 90
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba59160ea96db650800000000000000
+      internalID: 6250268054007667388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_26
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 779
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef306a2fa8ea910800000000000000
+      internalID: 1850569271667850761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 779
+        width: 163
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f81969591f6e990800000000000000
+      internalID: -7356927316484583666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_38
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 654
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27587353fec6771c0800000000000000
+      internalID: -4506013127515077262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 654
+        width: 99
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bec6a3da0264bd0800000000000000
+      internalID: -2646391802651940007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_40
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 654
+        width: 156
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b10156dc1d2aac0800000000000000
+      internalID: -3845280451726926997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_59
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 463
+        width: 80
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3db391339d5b8900800000000000000
+      internalID: 687746254877474107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 464
+        width: 103
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d3b94df79d721a0800000000000000
+      internalID: -6834254766460420745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_61
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 464
+        width: 114
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8f30792d5f3fee0800000000000000
+      internalID: -1228367988516456246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_75
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 465
+        width: 277
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872fe8577931aaf10800000000000000
+      internalID: 2281657702449869432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 344
+        width: 81
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c6bb16ae3c11420800000000000000
+      internalID: 2599073871398923287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_77
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 344
+        width: 81
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9261c462a7c0ebaf0800000000000000
+      internalID: -378851599884478935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_78
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 344
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8f2e99cc66deee0800000000000000
+      internalID: -1230214094261126995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_79
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 344
+        width: 101
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ebaa32b9ac51960800000000000000
+      internalID: 7572181116160491025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_80
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 344
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca070d544ff642c0800000000000000
+      internalID: -4447586912898184508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_81
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 344
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21170396597cdf50800000000000000
+      internalID: 6907529341220360490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_82
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 344
+        width: 97
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eae5a8c6922a9c0800000000000000
+      internalID: -3917523179704242583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_97
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 154
+        width: 114
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861280e4c411e3500800000000000000
+      internalID: 377758438170042728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_98
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 154
+        width: 63
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f4bbd2f4d33df00800000000000000
+      internalID: 1140322540933828496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_99
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 154
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a782fb04acd29a00800000000000000
+      internalID: 761913884112226213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_100
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 154
+        width: 103
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd0f1f43a8f91650800000000000000
+      internalID: 6204263341970361812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_101
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 154
+        width: 103
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a7417d820acb630800000000000000
+      internalID: 3944203470937291421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 17
+        width: 79
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332e910d0aa870130800000000000000
+      internalID: 3532944855986201139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_136
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 32
+        width: 87
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2159dee4aff9e17c0800000000000000
+      internalID: -4098662713445739246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Claw - Officer_179
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 18
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96389730292569220800000000000000
+      internalID: 2492270230873146217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
